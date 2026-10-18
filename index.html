@@ -126,6 +126,16 @@
   .contact { background: var(--navy); color: var(--white); }
   .contact .lead { color: rgba(255,255,255,.75); }
   .mail { display: inline-block; margin-top: 12px; font-size: clamp(1.3rem, 4vw, 2rem); font-weight: 700; color: var(--orange); text-decoration: none; border-bottom: 3px solid currentColor; word-break: break-all; }
+  /* Nápověda, když se neotevře e-mailový program */
+  .mail-help {
+    margin-top: 20px; background: var(--white); color: var(--text); border: 2px solid var(--orange);
+    border-radius: var(--radius); padding: 20px 24px;
+  }
+  .mail-help p { margin: 0 0 14px; }
+  .mail-help .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+  .mail-help button { border: 0; cursor: pointer; font: inherit; }
+  .btn.outline { border: 2px solid var(--navy); color: var(--navy); }
+
   footer { background: var(--navy); color: rgba(255,255,255,.55); font-size: 15px; border-top: 1px solid rgba(255,255,255,.1); }
   footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; padding: 28px 20px; }
 </style>
@@ -191,7 +201,7 @@
           <h3>Máte nápad pro Nebovidy?</h3>
           <p>Stačí pár vět. Každý nápad si přečteme.</p>
         </div>
-        <a class="btn primary" href="mailto:info@spolecnepronebovidy.cz?subject=N%C3%A1pad%20pro%20Nebovidy">Poslat nápad</a>
+        <a class="btn primary js-mail" href="mailto:info@spolecnepronebovidy.cz?subject=N%C3%A1pad%20pro%20Nebovidy">Poslat nápad</a>
       </div>
     </div>
   </section>
@@ -215,7 +225,7 @@
       <div class="label">Kontakt</div>
       <h2>Ozvěte se nám</h2>
       <p class="lead">Chcete se přidat, máte nápad nebo dotaz? Napište – rádi se potkáme.</p>
-      <a class="mail" href="mailto:info@spolecnepronebovidy.cz">info@spolecnepronebovidy.cz</a>
+      <a class="mail js-mail" href="mailto:info@spolecnepronebovidy.cz">info@spolecnepronebovidy.cz</a>
     </div>
   </section>
 </main>
@@ -226,6 +236,36 @@
     <a href="mailto:info@spolecnepronebovidy.cz">info@spolecnepronebovidy.cz</a>
   </div>
 </footer>
+
+<template id="mail-help">
+  <div class="mail-help" role="status">
+    <p>Neotevřel se vám e-mail? Napište nám na <strong>info@spolecnepronebovidy.cz</strong></p>
+    <div class="actions">
+      <button type="button" class="btn primary js-copy">Zkopírovat adresu</button>
+      <a class="btn outline" target="_blank" rel="noopener" href="https://mail.google.com/mail/?view=cm&amp;to=info@spolecnepronebovidy.cz&amp;su=N%C3%A1pad%20pro%20Nebovidy">Napsat přes Gmail</a>
+    </div>
+  </div>
+</template>
+
+<script>
+  // mailto: nic neudělá, když návštěvník nemá nastavený e-mailový program,
+  // proto po kliknutí vždy ukážeme adresu s možností ji zkopírovat.
+  document.querySelectorAll('.js-mail').forEach(function (link) {
+    link.addEventListener('click', function () {
+      var host = link.closest('.cta') || link;
+      if (host.nextElementSibling && host.nextElementSibling.classList.contains('mail-help')) return;
+      var help = document.getElementById('mail-help').content.firstElementChild.cloneNode(true);
+      host.insertAdjacentElement('afterend', help);
+      help.querySelector('.js-copy').addEventListener('click', function (e) {
+        var btn = e.currentTarget;
+        var done = function () { btn.textContent = 'Zkopírováno ✓'; };
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText('info@spolecnepronebovidy.cz').then(done, function () {});
+        }
+      });
+    });
+  });
+</script>
 
 </body>
 </html>
