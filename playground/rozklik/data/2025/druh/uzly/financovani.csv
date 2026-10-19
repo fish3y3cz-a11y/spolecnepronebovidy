@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,financovani,,Financování,-5241000.00,-5641000.00,-1500000.00,-1500000.00,,,,
+podrizeny_uzel,financovani/i8115,8115,Změna stavu prostředků na účtech,-3741000.00,-4141000.00,0.00,0.00,,,,
+podrizeny_uzel,financovani/i8124,8124,Splátky úvěrů,-1500000.00,-1500000.00,-1500000.00,-1500000.00,,,,

@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c6,6,Kapitálové výdaje,15600000.00,15600000.00,15295200.00,12750000.00,,,,
+podrizeny_uzel,vydaje/c6/s2,2,Průmyslová a ostatní odvětví hospodářství,6200000.00,6200000.00,6146800.00,5080000.00,,,,
+podrizeny_uzel,vydaje/c6/s3,3,Služby pro fyzické osoby,4600000.00,4600000.00,4465700.00,3800000.00,,,,
+podrizeny_uzel,vydaje/c6/s5,5,Bezpečnost státu a právní ochrana,4800000.00,4800000.00,4682700.00,3870000.00,,,,

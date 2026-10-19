@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c6/s3,3,Služby pro fyzické osoby,4600000.00,4600000.00,4465700.00,3800000.00,,,,
+podrizeny_uzel,vydaje/c6/s3/o31,31,Vzdělávání a školské služby,650000.00,650000.00,629200.00,520000.00,,,,
+podrizeny_uzel,vydaje/c6/s3/o36,36,"Bydlení, komunální služby a územní rozvoj",1550000.00,1550000.00,1477000.00,1330000.00,,,,
+podrizeny_uzel,vydaje/c6/s3/o37,37,Ochrana životního prostředí,2400000.00,2400000.00,2359500.00,1950000.00,,,,

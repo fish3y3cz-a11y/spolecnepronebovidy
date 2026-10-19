@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c6/ses61,61,Investiční nákupy a související výdaje,15600000.00,15600000.00,15295200.00,12750000.00,,,,
+podrizeny_uzel,vydaje/c6/ses61/pss611,611,Pořízení dlouhodobého nehmotného majetku,650000.00,650000.00,629200.00,520000.00,,,,
+podrizeny_uzel,vydaje/c6/ses61/pss612,612,Pořízení dlouhodobého hmotného majetku,14950000.00,14950000.00,14666000.00,12230000.00,,,,

@@ -1,0 +1,14 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s6/o61/pd617/p6171/i5154,5154,Elektrická energie,152000.00,152000.00,146879.48,121388.00,,,,
+faktura,f13,,EV-2025-0101,,,13267.65,10965.00,2025-01-24,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – leden"
+faktura,f14,,EV-2025-0202,,,12558.59,10379.00,2025-02-15,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – únor"
+faktura,f15,,EV-2025-0303,,,13958.56,11536.00,2025-03-15,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – březen"
+faktura,f16,,EV-2025-0404,,,11421.19,9439.00,2025-04-23,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – duben"
+faktura,f17,,EV-2025-0505,,,11338.91,9371.00,2025-05-23,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – květen"
+faktura,f18,,EV-2025-0606,,,10788.36,8916.00,2025-06-22,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červen"
+faktura,f19,,EV-2025-0707,,,11678.92,9652.00,2025-07-17,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červenec"
+faktura,f20,,EV-2025-0808,,,11712.80,9680.00,2025-08-11,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – srpen"
+faktura,f21,,EV-2025-0909,,,13175.69,10889.00,2025-09-19,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – září"
+faktura,f22,,EV-2025-1010,,,11142.89,9209.00,2025-10-08,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – říjen"
+faktura,f23,,EV-2025-1111,,,12924.01,10681.00,2025-11-22,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – listopad"
+faktura,f24,,EV-2025-1212,,,12911.91,10671.00,2025-12-03,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – prosinec"

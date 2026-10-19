@@ -1,0 +1,8 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss513/i5139/p3639,3639,Správa obecního majetku,171000.00,171000.00,164424.48,135888.00,,,,
+faktura,f162,,SI-2025-15002,,,24254.45,20045.00,2025-02-20,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f163,,SI-2025-15104,,,30683.18,25358.00,2025-04-12,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f164,,SI-2025-15206,,,24940.52,20612.00,2025-06-17,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f165,,SI-2025-15308,,,24606.56,20336.00,2025-08-04,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f166,,SI-2025-15410,,,28956.51,23931.00,2025-10-04,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f167,,SI-2025-15512,,,30983.26,25606.00,2025-12-23,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"

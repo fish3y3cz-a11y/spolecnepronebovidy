@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss513/i5137/p5512,5512,Dobrovolní hasiči,171000.00,171000.00,205700.00,170000.00,,,,
+faktura,f200,,HAS-25-01,,,169400.00,140000.00,2025-04-15,Hasičská technika s.r.o. (fiktivní),99906180,Vybavení JSDH – hadice a čerpadlo
+faktura,f224,,HAS-25-03,,,36300.00,30000.00,2025-11-05,Hasičská technika s.r.o. (fiktivní),99906180,Ochranné pomůcky JSDH

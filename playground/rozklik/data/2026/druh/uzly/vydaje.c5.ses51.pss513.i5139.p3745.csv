@@ -1,0 +1,7 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss513/i5139/p3745,3745,Veřejná zeleň,120000.00,120000.00,128368.33,114073.00,,,,
+faktura,f348,,SI-2026-11402,,,22244.64,18384.00,2026-02-18,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f349,,SI-2026-11504,,,20186.43,16683.00,2026-04-05,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f350,,SI-2026-11606,,,19531.82,16142.00,2026-06-23,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f351,,SI-2026-11708,,,20405.44,16864.00,2026-08-14,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f392,,ZEL-26-SAZ,,,46000.00,46000.00,2026-04-08,Pavel Zelený – údržba zeleně,99906350,Výsadba stromů v aleji ke hřbitovu

@@ -1,0 +1,8 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5,5,Běžné výdaje,27851000.00,27851000.00,25910881.83,24096933.00,,,,
+podrizeny_uzel,vydaje/c5/s1,1,"Zemědělství, lesní hospodářství a rybářství",285000.00,285000.00,237160.00,196000.00,,,,
+podrizeny_uzel,vydaje/c5/s2,2,Průmyslová a ostatní odvětví hospodářství,3753000.00,3813000.00,2982631.85,2464985.00,,,,
+podrizeny_uzel,vydaje/c5/s3,3,Služby pro fyzické osoby,12235000.00,12435000.00,11831308.29,11002803.00,,,,
+podrizeny_uzel,vydaje/c5/s4,4,Sociální věci a politika zaměstnanosti,114000.00,114000.00,110000.00,110000.00,,,,
+podrizeny_uzel,vydaje/c5/s5,5,Bezpečnost státu a právní ochrana,371000.00,371000.00,401720.00,332000.00,,,,
+podrizeny_uzel,vydaje/c5/s6,6,Všeobecná veřejná správa a služby,11093000.00,10833000.00,10348061.69,9991145.00,,,,

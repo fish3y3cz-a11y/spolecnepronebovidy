@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s6/o63,63,Finanční operace,920000.00,920000.00,655725.00,655725.00,,,,
+podrizeny_uzel,vydaje/c5/s6/o63/pd631,631,Obecné příjmy a výdaje z finančních operací,60000.00,60000.00,42750.00,42750.00,,,,
+podrizeny_uzel,vydaje/c5/s6/o63/pd632,632,Pojištění funkčně nespecifikované,210000.00,210000.00,198600.00,198600.00,,,,
+podrizeny_uzel,vydaje/c5/s6/o63/pd639,639,Ostatní finanční operace,650000.00,650000.00,414375.00,414375.00,,,,

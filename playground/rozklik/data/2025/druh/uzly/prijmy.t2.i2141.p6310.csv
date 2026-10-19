@@ -1,0 +1,6 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t2/i2141/p6310,6310,Obecné příjmy a výdaje z finančních operací,226000.00,226000.00,216589.00,216589.00,,,,
+prijem,p91,,BU-2025-91,,,52995.00,52995.00,2025-03-28,Banka Fiktiv a.s. (fiktivní),99906279,Úroky z účtů – 1. čtvrtletí
+prijem,p93,,BU-2025-93,,,53183.00,53183.00,2025-06-28,Banka Fiktiv a.s. (fiktivní),99906279,Úroky z účtů – 2. čtvrtletí
+prijem,p95,,BU-2025-95,,,60947.00,60947.00,2025-09-28,Banka Fiktiv a.s. (fiktivní),99906279,Úroky z účtů – 3. čtvrtletí
+prijem,p97,,BU-2025-97,,,49464.00,49464.00,2025-12-28,Banka Fiktiv a.s. (fiktivní),99906279,Úroky z účtů – 4. čtvrtletí

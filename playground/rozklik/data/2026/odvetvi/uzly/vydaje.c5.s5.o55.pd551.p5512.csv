@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s5/o55/pd551/p5512,5512,Dobrovolní hasiči,390000.00,390000.00,228085.00,188500.00,,,,
+podrizeny_uzel,vydaje/c5/s5/o55/pd551/p5512/i5137,5137,Drobný dlouhodobý hmotný majetek,180000.00,180000.00,116160.00,96000.00,,,,
+podrizeny_uzel,vydaje/c5/s5/o55/pd551/p5512/i5156,5156,Pohonné hmoty a maziva,90000.00,90000.00,46585.00,38500.00,,,,
+podrizeny_uzel,vydaje/c5/s5/o55/pd551/p5512/i5169,5169,Nákup ostatních služeb,120000.00,120000.00,65340.00,54000.00,,,,

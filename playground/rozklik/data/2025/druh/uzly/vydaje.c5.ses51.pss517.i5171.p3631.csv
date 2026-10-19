@@ -1,0 +1,6 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss517/i5171/p3631,3631,Veřejné osvětlení,247000.00,247000.00,240107.00,240107.00,,,,
+faktura,f128,,EL-2025-11603,,,66450.00,66450.00,2025-03-03,Jiří Proud – elektroinstalace,99906368,Opravy a údržba veřejného osvětlení – 1. čtvrtletí
+faktura,f129,,EL-2025-11706,,,59398.00,59398.00,2025-06-14,Jiří Proud – elektroinstalace,99906368,Opravy a údržba veřejného osvětlení – 2. čtvrtletí
+faktura,f130,,EL-2025-11809,,,60809.00,60809.00,2025-09-08,Jiří Proud – elektroinstalace,99906368,Opravy a údržba veřejného osvětlení – 3. čtvrtletí
+faktura,f131,,EL-2025-11912,,,53450.00,53450.00,2025-12-06,Jiří Proud – elektroinstalace,99906368,Opravy a údržba veřejného osvětlení – 4. čtvrtletí

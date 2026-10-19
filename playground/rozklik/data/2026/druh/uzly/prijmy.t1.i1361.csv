@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t1/i1361,1361,Příjem ze správních poplatků,60000.00,60000.00,47575.00,47575.00,,,,
+prijem,p101,,POP-2026-03,,,4072.00,4072.00,2026-01-28,,,Místní poplatky – souhrn plateb za leden
+prijem,p108,,POP-2026-10,,,4114.00,4114.00,2026-02-28,,,Místní poplatky – souhrn plateb za únor
+prijem,p115,,POP-2026-17,,,5700.00,5700.00,2026-03-28,,,Místní poplatky – souhrn plateb za březen
+prijem,p122,,POP-2026-24,,,5159.00,5159.00,2026-04-28,,,Místní poplatky – souhrn plateb za duben
+prijem,p129,,POP-2026-31,,,6447.00,6447.00,2026-05-28,,,Místní poplatky – souhrn plateb za květen
+prijem,p136,,POP-2026-38,,,5717.00,5717.00,2026-06-28,,,Místní poplatky – souhrn plateb za červen
+prijem,p143,,POP-2026-45,,,5674.00,5674.00,2026-07-28,,,Místní poplatky – souhrn plateb za červenec
+prijem,p150,,POP-2026-52,,,6030.00,6030.00,2026-08-28,,,Místní poplatky – souhrn plateb za srpen
+prijem,p157,,POP-2026-59,,,4662.00,4662.00,2026-09-28,,,Místní poplatky – souhrn plateb za září

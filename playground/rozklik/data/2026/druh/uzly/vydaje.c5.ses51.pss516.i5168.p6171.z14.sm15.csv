@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5168/p6171/z14/sm15,,Smlouva SML 2024/120,0.00,0.00,258204.32,213392.00,,,,
+faktura,f301,,OIT-2026-6703,,,78692.35,65035.00,2026-03-19,ObecIT s.r.o. (fiktivní),99906066,"Správa IT, licence a zálohování – 1. čtvrtletí"
+faktura,f302,,OIT-2026-6806,,,93853.65,77565.00,2026-06-04,ObecIT s.r.o. (fiktivní),99906066,"Správa IT, licence a zálohování – 2. čtvrtletí"
+faktura,f303,,OIT-2026-6909,,,85658.32,70792.00,2026-09-10,ObecIT s.r.o. (fiktivní),99906066,"Správa IT, licence a zálohování – 3. čtvrtletí"

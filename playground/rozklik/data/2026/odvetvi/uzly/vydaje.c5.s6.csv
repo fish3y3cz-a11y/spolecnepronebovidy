@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s6,6,Všeobecná veřejná správa a služby,11673000.00,11553000.00,7965716.78,7694555.00,,,,
+podrizeny_uzel,vydaje/c5/s6/o61,61,"Státní moc, státní správa, územní samospráva a politické strany",9853000.00,9973000.00,7309991.78,7038830.00,,,,
+podrizeny_uzel,vydaje/c5/s6/o63,63,Finanční operace,920000.00,920000.00,655725.00,655725.00,,,,
+podrizeny_uzel,vydaje/c5/s6/o64,64,Ostatní činnosti,900000.00,660000.00,0.00,0.00,,,,

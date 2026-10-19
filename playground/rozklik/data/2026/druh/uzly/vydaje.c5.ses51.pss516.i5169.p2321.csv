@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5169/p2321,2321,Odvádění a čištění odpadních vod a nakládání s kaly,880000.00,880000.00,665406.83,549923.00,,,,
+faktura,f268,,VKK-2026-3403,,,218626.43,180683.00,2026-03-17,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování kanalizace a ČOV – 1. čtvrtletí
+faktura,f269,,VKK-2026-3506,,,225617.81,186461.00,2026-06-10,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování kanalizace a ČOV – 2. čtvrtletí
+faktura,f270,,VKK-2026-3609,,,221162.59,182779.00,2026-09-17,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování kanalizace a ČOV – 3. čtvrtletí

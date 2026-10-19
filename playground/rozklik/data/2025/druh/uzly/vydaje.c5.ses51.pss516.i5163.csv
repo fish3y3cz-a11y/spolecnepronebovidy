@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5163,5163,Služby peněžních ústavů,257000.00,257000.00,246550.00,246550.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516/i5163/p6310,6310,Obecné příjmy a výdaje z finančních operací,57000.00,57000.00,54150.00,54150.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516/i5163/p6320,6320,Pojištění funkčně nespecifikované,200000.00,200000.00,192400.00,192400.00,,,,

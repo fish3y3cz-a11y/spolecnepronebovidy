@@ -1,0 +1,7 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t2,2,Nedaňové příjmy,2284000.00,2284000.00,2227334.00,2227334.00,,,,
+podrizeny_uzel,prijmy/t2/i2111,2111,"Příjem z poskytování služeb, výrobků, prací, výkonů a práv",423000.00,423000.00,384930.00,384930.00,,,,
+podrizeny_uzel,prijmy/t2/i2131,2131,Příjem z pronájmu nebo pachtu pozemků,207000.00,207000.00,202860.00,202860.00,,,,
+podrizeny_uzel,prijmy/t2/i2132,2132,Příjem z pronájmu nebo pachtu ostatních nemovitých věcí a jejich částí,1259000.00,1259000.00,1258992.00,1258992.00,,,,
+podrizeny_uzel,prijmy/t2/i2141,2141,Příjem z úroků,226000.00,226000.00,216589.00,216589.00,,,,
+podrizeny_uzel,prijmy/t2/i2324,2324,Přijaté neinvestiční příspěvky a náhrady,169000.00,169000.00,163963.00,163963.00,,,,

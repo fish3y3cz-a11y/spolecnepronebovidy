@@ -1,0 +1,8 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5,5,Běžné výdaje,27851000.00,27851000.00,25910881.83,24096933.00,,,,
+podrizeny_uzel,vydaje/c5/ses50,50,Výdaje na platy a obdobné a související výdaje,7024000.00,7024000.00,6953760.00,6953760.00,,,,
+podrizeny_uzel,vydaje/c5/ses51,51,Výdaje na neinvestiční nákupy a související výdaje,14575000.00,14835000.00,13954521.83,12140573.00,,,,
+podrizeny_uzel,vydaje/c5/ses52,52,Neinvestiční transfery soukromoprávním osobám,732000.00,732000.00,575000.00,575000.00,,,,
+podrizeny_uzel,vydaje/c5/ses53,53,Neinvestiční transfery veřejnoprávním osobám a mezi peněžními fondy téže osoby a platby daní,4608000.00,4608000.00,4423600.00,4423600.00,,,,
+podrizeny_uzel,vydaje/c5/ses54,54,Neinvestiční transfery a některé náhrady fyzickým osobám,57000.00,57000.00,4000.00,4000.00,,,,
+podrizeny_uzel,vydaje/c5/ses59,59,Ostatní neinvestiční výdaje,855000.00,595000.00,0.00,0.00,,,,

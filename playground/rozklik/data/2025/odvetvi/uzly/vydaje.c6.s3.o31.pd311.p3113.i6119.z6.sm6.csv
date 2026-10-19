@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c6/s3/o31/pd311/p3113/i6119/z6/sm6,,Smlouva SoD 2025/004,0.00,0.00,629200.00,520000.00,,,,
+faktura,f11,,UAP-25-06,,,314600.00,260000.00,2025-06-15,Urbanistický ateliér Plán s.r.o. (fiktivní),99906201,PD – dokumentace pro povolení stavby
+faktura,f12,,UAP-25-10,,,314600.00,260000.00,2025-10-15,Urbanistický ateliér Plán s.r.o. (fiktivní),99906201,PD – dokumentace pro provedení stavby a posudek

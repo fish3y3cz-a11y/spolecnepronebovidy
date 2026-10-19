@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje,,Výdaje,43451000.00,43451000.00,41206081.83,36846933.00,,,,
+podrizeny_uzel,vydaje/c5,5,Běžné výdaje,27851000.00,27851000.00,25910881.83,24096933.00,,,,
+podrizeny_uzel,vydaje/c6,6,Kapitálové výdaje,15600000.00,15600000.00,15295200.00,12750000.00,,,,

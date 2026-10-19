@@ -1,0 +1,14 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss515/i5154/p3612,3612,Obecní byty,86000.00,86000.00,82852.33,68473.00,,,,
+faktura,f13,,EV-2025-0101,,,7483.85,6185.00,2025-01-24,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – leden"
+faktura,f14,,EV-2025-0202,,,7084.55,5855.00,2025-02-15,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – únor"
+faktura,f15,,EV-2025-0303,,,7873.47,6507.00,2025-03-15,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – březen"
+faktura,f16,,EV-2025-0404,,,6442.04,5324.00,2025-04-23,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – duben"
+faktura,f17,,EV-2025-0505,,,6394.85,5285.00,2025-05-23,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – květen"
+faktura,f18,,EV-2025-0606,,,6086.30,5030.00,2025-06-22,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červen"
+faktura,f19,,EV-2025-0707,,,6587.24,5444.00,2025-07-17,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červenec"
+faktura,f20,,EV-2025-0808,,,6606.60,5460.00,2025-08-11,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – srpen"
+faktura,f21,,EV-2025-0909,,,7433.03,6143.00,2025-09-19,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – září"
+faktura,f22,,EV-2025-1010,,,6284.74,5194.00,2025-10-08,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – říjen"
+faktura,f23,,EV-2025-1111,,,7290.25,6025.00,2025-11-22,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – listopad"
+faktura,f24,,EV-2025-1212,,,7285.41,6021.00,2025-12-03,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – prosinec"

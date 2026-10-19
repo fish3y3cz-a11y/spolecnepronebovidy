@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t1/i1341,1341,Příjem z poplatku ze psů,66000.00,66000.00,62700.00,62700.00,,,,
+prijem,p3,,POP-2025-03,,,20900.00,20900.00,2025-01-28,,,Místní poplatky – souhrn plateb za leden
+prijem,p10,,POP-2025-10,,,20900.00,20900.00,2025-02-28,,,Místní poplatky – souhrn plateb za únor
+prijem,p17,,POP-2025-17,,,20900.00,20900.00,2025-03-28,,,Místní poplatky – souhrn plateb za březen

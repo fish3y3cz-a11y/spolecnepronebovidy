@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t2/p3613/i2132,2132,Příjem z pronájmu nebo pachtu ostatních nemovitých věcí a jejich částí,360000.00,360000.00,270000.00,270000.00,,,,
+prijem,p105,,NNP-2026-07,,,30000.00,30000.00,2026-01-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – leden
+prijem,p112,,NNP-2026-14,,,30000.00,30000.00,2026-02-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – únor
+prijem,p119,,NNP-2026-21,,,30000.00,30000.00,2026-03-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – březen
+prijem,p126,,NNP-2026-28,,,30000.00,30000.00,2026-04-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – duben
+prijem,p133,,NNP-2026-35,,,30000.00,30000.00,2026-05-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – květen
+prijem,p140,,NNP-2026-42,,,30000.00,30000.00,2026-06-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – červen
+prijem,p147,,NNP-2026-49,,,30000.00,30000.00,2026-07-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – červenec
+prijem,p154,,NNP-2026-56,,,30000.00,30000.00,2026-08-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – srpen
+prijem,p161,,NNP-2026-63,,,30000.00,30000.00,2026-09-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – září

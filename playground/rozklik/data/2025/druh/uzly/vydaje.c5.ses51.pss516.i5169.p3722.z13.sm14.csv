@@ -1,0 +1,14 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5169/p3722/z13/sm14,,Smlouva SML 2024/112,0.00,0.00,2131304.00,1902950.00,,,,
+faktura,f61,,OM-2025-4901,,,189488.32,169186.00,2025-01-03,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – leden
+faktura,f62,,OM-2025-5002,,,153410.88,136974.00,2025-02-11,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – únor
+faktura,f63,,OM-2025-5103,,,189499.52,169196.00,2025-03-17,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – březen
+faktura,f64,,OM-2025-5204,,,179654.72,160406.00,2025-04-24,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – duben
+faktura,f65,,OM-2025-5305,,,161068.32,143811.00,2025-05-11,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – květen
+faktura,f66,,OM-2025-5406,,,152210.24,135902.00,2025-06-15,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – červen
+faktura,f67,,OM-2025-5507,,,197708.00,176525.00,2025-07-16,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – červenec
+faktura,f68,,OM-2025-5608,,,158959.36,141928.00,2025-08-12,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – srpen
+faktura,f69,,OM-2025-5709,,,185852.80,165940.00,2025-09-17,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – září
+faktura,f70,,OM-2025-5810,,,190898.40,170445.00,2025-10-20,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – říjen
+faktura,f71,,OM-2025-5911,,,193595.36,172853.00,2025-11-23,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – listopad
+faktura,f72,,OM-2025-6012,,,178958.08,159784.00,2025-12-10,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – prosinec

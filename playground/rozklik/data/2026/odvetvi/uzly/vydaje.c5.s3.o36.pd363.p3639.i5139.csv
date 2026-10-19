@@ -1,0 +1,6 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o36/pd363/p3639/i5139,5139,Nákup materiálu jinde nezařazený,180000.00,180000.00,123550.68,102108.00,,,,
+faktura,f348,,SI-2026-11402,,,33366.96,27576.00,2026-02-18,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f349,,SI-2026-11504,,,30279.04,25024.00,2026-04-05,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f350,,SI-2026-11606,,,29296.52,24212.00,2026-06-23,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f351,,SI-2026-11708,,,30608.16,25296.00,2026-08-14,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"

@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5169/p3639,3639,Správa obecního majetku,650000.00,650000.00,472336.81,390361.00,,,,
+faktura,f307,,UC-2026-7301,,,50355.36,41616.00,2026-01-18,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – leden
+faktura,f308,,UC-2026-7402,,,60422.56,49936.00,2026-02-20,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – únor
+faktura,f309,,UC-2026-7503,,,47729.66,39446.00,2026-03-20,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – březen
+faktura,f310,,UC-2026-7604,,,52477.70,43370.00,2026-04-08,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – duben
+faktura,f311,,UC-2026-7705,,,56544.51,46731.00,2026-05-08,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – květen
+faktura,f312,,UC-2026-7806,,,47159.75,38975.00,2026-06-05,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – červen
+faktura,f313,,UC-2026-7907,,,50483.62,41722.00,2026-07-17,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – červenec
+faktura,f314,,UC-2026-8008,,,59719.55,49355.00,2026-08-05,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – srpen
+faktura,f315,,UC-2026-8109,,,47444.10,39210.00,2026-09-11,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – září
