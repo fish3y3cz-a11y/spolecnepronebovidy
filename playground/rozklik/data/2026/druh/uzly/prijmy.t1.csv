@@ -1,0 +1,13 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t1,1,Daňové příjmy,48850000.00,48850000.00,35989056.00,35989056.00,,,,
+podrizeny_uzel,prijmy/t1/i1111,1111,Příjem z daně z příjmů fyzických osob placené plátci,9800000.00,9800000.00,7260511.00,7260511.00,,,,
+podrizeny_uzel,prijmy/t1/i1112,1112,Příjem z daně z příjmů fyzických osob placené poplatníky,250000.00,250000.00,212500.00,212500.00,,,,
+podrizeny_uzel,prijmy/t1/i1113,1113,Příjem z daně z příjmů fyzických osob vybírané srážkou podle zvláštní sazby daně,1050000.00,1050000.00,778590.00,778590.00,,,,
+podrizeny_uzel,prijmy/t1/i1121,1121,Příjem z daně z příjmů právnických osob,10900000.00,10900000.00,8383328.00,8383328.00,,,,
+podrizeny_uzel,prijmy/t1/i1211,1211,Příjem z daně z přidané hodnoty,21500000.00,21500000.00,15810165.00,15810165.00,,,,
+podrizeny_uzel,prijmy/t1/i1341,1341,Příjem z poplatku ze psů,70000.00,70000.00,66501.00,66501.00,,,,
+podrizeny_uzel,prijmy/t1/i1343,1343,Příjem z poplatku za užívání veřejného prostranství,40000.00,40000.00,29997.00,29997.00,,,,
+podrizeny_uzel,prijmy/t1/i1345,1345,Příjem z poplatku za obecní systém odpadového hospodářství a příjem z poplatku za odkládání komunálního odpadu z nemovité věci,1900000.00,1900000.00,1653000.00,1653000.00,,,,
+podrizeny_uzel,prijmy/t1/i1361,1361,Příjem ze správních poplatků,60000.00,60000.00,47575.00,47575.00,,,,
+podrizeny_uzel,prijmy/t1/i1381,1381,Příjem z daně z hazardních her s výjimkou dílčí daně z technických her za zdaňovací období do konce roku 2023,180000.00,180000.00,134889.00,134889.00,,,,
+podrizeny_uzel,prijmy/t1/i1511,1511,Příjem z daně z nemovitých věcí,3100000.00,3100000.00,1612000.00,1612000.00,,,,

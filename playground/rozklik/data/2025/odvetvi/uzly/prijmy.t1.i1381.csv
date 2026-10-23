@@ -1,0 +1,14 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t1/i1381,1381,Příjem z daně z hazardních her s výjimkou dílčí daně z technických her za zdaňovací období do konce roku 2023,169000.00,169000.00,167064.00,167064.00,,,,
+prijem,p1,,FU-2025-01,,,13931.00,13931.00,2025-01-15,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod leden
+prijem,p8,,FU-2025-08,,,13882.00,13882.00,2025-02-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod únor
+prijem,p15,,FU-2025-15,,,13951.00,13951.00,2025-03-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod březen
+prijem,p22,,FU-2025-22,,,14035.00,14035.00,2025-04-16,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod duben
+prijem,p29,,FU-2025-29,,,13908.00,13908.00,2025-05-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod květen
+prijem,p36,,FU-2025-36,,,14312.00,14312.00,2025-06-10,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červen
+prijem,p43,,FU-2025-43,,,14159.00,14159.00,2025-07-17,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červenec
+prijem,p50,,FU-2025-50,,,13367.00,13367.00,2025-08-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod srpen
+prijem,p57,,FU-2025-57,,,15187.00,15187.00,2025-09-11,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod září
+prijem,p64,,FU-2025-64,,,14367.00,14367.00,2025-10-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod říjen
+prijem,p71,,FU-2025-71,,,13112.00,13112.00,2025-11-12,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod listopad
+prijem,p78,,FU-2025-78,,,12853.00,12853.00,2025-12-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod prosinec

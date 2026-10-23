@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss515/i5154/p3412,3412,Sportovní zařízení ve vlastnictví obce,160000.00,160000.00,117816.49,97369.00,,,,
+faktura,f235,,EV-2026-0101,,,12413.39,10259.00,2026-01-17,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – leden"
+faktura,f236,,EV-2026-0202,,,13687.52,11312.00,2026-02-08,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – únor"
+faktura,f237,,EV-2026-0303,,,13748.02,11362.00,2026-03-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – březen"
+faktura,f238,,EV-2026-0404,,,15114.11,12491.00,2026-04-16,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – duben"
+faktura,f239,,EV-2026-0505,,,12730.41,10521.00,2026-05-24,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – květen"
+faktura,f240,,EV-2026-0606,,,11939.07,9867.00,2026-06-16,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červen"
+faktura,f241,,EV-2026-0707,,,14396.58,11898.00,2026-07-19,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červenec"
+faktura,f242,,EV-2026-0808,,,12109.68,10008.00,2026-08-17,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – srpen"
+faktura,f243,,EV-2026-0909,,,11677.71,9651.00,2026-09-08,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – září"

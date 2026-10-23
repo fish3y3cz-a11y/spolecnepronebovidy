@@ -1,0 +1,6 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy,,Příjmy,51800000.00,59770000.00,46226012.00,46226012.00,,,,
+podrizeny_uzel,prijmy/t1,1,Daňové příjmy,48850000.00,48850000.00,35989056.00,35989056.00,,,,
+podrizeny_uzel,prijmy/t2,2,Nedaňové příjmy,2430000.00,2430000.00,1876959.00,1876959.00,,,,
+podrizeny_uzel,prijmy/t3,3,Kapitálové příjmy,0.00,350000.00,350000.00,350000.00,,,,
+podrizeny_uzel,prijmy/t4,4,Přijaté transfery,520000.00,8140000.00,8009997.00,8009997.00,,,,

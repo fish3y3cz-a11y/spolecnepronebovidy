@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t4,4,Přijaté transfery,489000.00,889000.00,889000.00,889000.00,,,,
+podrizeny_uzel,prijmy/t4/i4112,4112,Neinvestiční přijaté transfery ze státního rozpočtu v rámci souhrnného dotačního vztahu,489000.00,489000.00,489000.00,489000.00,,,,
+podrizeny_uzel,prijmy/t4/i4216,4216,Ostatní investiční přijaté transfery ze státního rozpočtu,0.00,400000.00,400000.00,400000.00,,,,

@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses50/pss503/i5032,5032,Povinné pojistné na veřejné zdravotní pojištění,535000.00,535000.00,397238.00,397238.00,,,,
+podrizeny_uzel,vydaje/c5/ses50/pss503/i5032/p6112,6112,Zastupitelstvo,190000.00,190000.00,141075.00,141075.00,,,,
+podrizeny_uzel,vydaje/c5/ses50/pss503/i5032/p6171,6171,Obecní úřad,345000.00,345000.00,256163.00,256163.00,,,,

@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss515/i5151/p6171,6171,Obecní úřad,30000.00,30000.00,22940.96,20483.00,,,,
+faktura,f262,,VK-2026-2803,,,6359.36,5678.00,2026-03-17,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Vodné a stočné – obecní úřad – 1. čtvrtletí
+faktura,f263,,VK-2026-2906,,,8247.68,7364.00,2026-06-06,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Vodné a stočné – obecní úřad – 2. čtvrtletí
+faktura,f264,,VK-2026-3009,,,8333.92,7441.00,2026-09-20,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Vodné a stočné – obecní úřad – 3. čtvrtletí

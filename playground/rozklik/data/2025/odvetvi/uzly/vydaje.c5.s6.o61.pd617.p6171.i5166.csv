@@ -1,0 +1,6 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s6/o61/pd617/p6171/i5166,5166,"Konzultační, poradenské a právní služby",266000.00,266000.00,187566.94,155014.00,,,,
+faktura,f105,,AK-2025-9303,,,46086.48,38088.00,2025-03-17,Advokátní kancelář Paragraf s.r.o. (fiktivní),99906074,Právní služby – paušál 1. čtvrtletí
+faktura,f106,,AK-2025-9406,,,44272.69,36589.00,2025-06-10,Advokátní kancelář Paragraf s.r.o. (fiktivní),99906074,Právní služby – paušál 2. čtvrtletí
+faktura,f107,,AK-2025-9509,,,43781.43,36183.00,2025-09-18,Advokátní kancelář Paragraf s.r.o. (fiktivní),99906074,Právní služby – paušál 3. čtvrtletí
+faktura,f108,,AK-2025-9612,,,53426.34,44154.00,2025-12-22,Advokátní kancelář Paragraf s.r.o. (fiktivní),99906074,Právní služby – paušál 4. čtvrtletí

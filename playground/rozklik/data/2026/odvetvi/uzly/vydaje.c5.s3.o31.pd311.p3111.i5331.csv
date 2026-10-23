@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o31/pd311/p3111/i5331,5331,Neinvestiční příspěvky zřízeným příspěvkovým organizacím,1800000.00,1800000.00,1368634.00,1368634.00,,,,
+faktura,f325,,PMS-2026-9101,,,149099.00,149099.00,2026-01-21,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – leden
+faktura,f326,,PMS-2026-9202,,,151301.00,151301.00,2026-02-08,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – únor
+faktura,f327,,PMS-2026-9303,,,142923.00,142923.00,2026-03-15,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – březen
+faktura,f328,,PMS-2026-9404,,,143435.00,143435.00,2026-04-03,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – duben
+faktura,f329,,PMS-2026-9505,,,164708.00,164708.00,2026-05-21,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – květen
+faktura,f330,,PMS-2026-9606,,,152725.00,152725.00,2026-06-04,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – červen
+faktura,f331,,PMS-2026-9707,,,161007.00,161007.00,2026-07-08,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – červenec
+faktura,f332,,PMS-2026-9808,,,161232.00,161232.00,2026-08-06,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – srpen
+faktura,f333,,PMS-2026-9909,,,142204.00,142204.00,2026-09-23,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – září

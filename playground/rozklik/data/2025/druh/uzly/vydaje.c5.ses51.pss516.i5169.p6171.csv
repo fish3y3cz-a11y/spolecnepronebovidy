@@ -1,0 +1,16 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5169/p6171,6171,Obecní úřad,494000.00,494000.00,724154.75,598475.00,,,,
+faktura,f173,,SL-2025-16101,,,27375.04,22624.00,2025-01-06,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – leden"
+faktura,f174,,SL-2025-16202,,,36053.16,29796.00,2025-02-04,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – únor"
+faktura,f175,,SL-2025-16303,,,27907.44,23064.00,2025-03-17,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – březen"
+faktura,f176,,SL-2025-16404,,,30149.57,24917.00,2025-04-04,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – duben"
+faktura,f177,,SL-2025-16505,,,27980.04,23124.00,2025-05-04,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – květen"
+faktura,f178,,SL-2025-16606,,,33405.68,27608.00,2025-06-15,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – červen"
+faktura,f179,,SL-2025-16707,,,31415.23,25963.00,2025-07-19,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – červenec"
+faktura,f180,,SL-2025-16808,,,34333.75,28375.00,2025-08-22,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – srpen"
+faktura,f181,,SL-2025-16909,,,33039.05,27305.00,2025-09-13,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – září"
+faktura,f182,,SL-2025-17010,,,33854.59,27979.00,2025-10-23,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – říjen"
+faktura,f183,,SL-2025-17111,,,34275.67,28327.00,2025-11-24,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – listopad"
+faktura,f184,,SL-2025-17212,,,35565.53,29393.00,2025-12-10,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – prosinec"
+faktura,f219,,UC-25-01,,,145200.00,120000.00,2025-12-10,Úklid Čistota s.r.o. (fiktivní),99906121,Mimořádný úklid úřadu a kulturního domu
+faktura,f220,,OIT-25-WEB,,,193600.00,160000.00,2025-04-10,ObecIT s.r.o. (fiktivní),99906066,Nový web obce

@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c6/ses61/pss612,612,Pořízení dlouhodobého hmotného majetku,14950000.00,14950000.00,14666000.00,12230000.00,,,,
+podrizeny_uzel,vydaje/c6/ses61/pss612/i6121,6121,Stavby,12550000.00,12550000.00,12306500.00,10280000.00,,,,
+podrizeny_uzel,vydaje/c6/ses61/pss612/i6123,6123,Dopravní prostředky,2400000.00,2400000.00,2359500.00,1950000.00,,,,

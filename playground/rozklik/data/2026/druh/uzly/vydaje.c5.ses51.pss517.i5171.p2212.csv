@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss517/i5171/p2212,2212,Silnice,1600000.00,1600000.00,1270500.00,1050000.00,,,,
+faktura,f383,,SD-26-015,,,774400.00,640000.00,2026-05-18,Silnice Idealnov s.r.o. (fiktivní),99906210,Výsprava výtluků místních komunikací
+faktura,f384,,SD-26-033,,,496100.00,410000.00,2026-08-25,Silnice Idealnov s.r.o. (fiktivní),99906210,Oprava povrchu MK Za Mlýnem

@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o36/pd363/p3631,3631,Veřejné osvětlení,680000.00,680000.00,530478.11,474200.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o36/pd363/p3631/i5154,5154,Elektrická energie,420000.00,420000.00,324269.11,267991.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o36/pd363/p3631/i5171,5171,Opravy a udržování,260000.00,260000.00,206209.00,206209.00,,,,

@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s2/o22/pd221,221,Pozemní komunikace,2138000.00,2138000.00,1412909.74,1167694.00,,,,
+podrizeny_uzel,vydaje/c5/s2/o22/pd221/p2212,2212,Silnice,1948000.00,1948000.00,1412909.74,1167694.00,,,,
+podrizeny_uzel,vydaje/c5/s2/o22/pd221/p2219,2219,Chodníky,190000.00,190000.00,0.00,0.00,,,,

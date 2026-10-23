@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s2,2,Průmyslová a ostatní odvětví hospodářství,3753000.00,3813000.00,2982631.85,2464985.00,,,,
+podrizeny_uzel,vydaje/c5/s2/o22,22,Doprava,2138000.00,2138000.00,1412909.74,1167694.00,,,,
+podrizeny_uzel,vydaje/c5/s2/o23,23,Vodní hospodářství,1615000.00,1675000.00,1569722.11,1297291.00,,,,

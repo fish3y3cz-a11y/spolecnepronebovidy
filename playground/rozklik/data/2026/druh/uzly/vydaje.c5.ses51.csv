@@ -1,0 +1,7 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51,51,Výdaje na neinvestiční nákupy a související výdaje,15335000.00,15755000.00,11876794.57,10306096.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss513,513,Výdaje na nákup materiálu,1070000.00,1100000.00,778256.56,654886.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss515,515,"Výdaje na nákup vody, paliv a energie",1270000.00,1270000.00,945707.53,783100.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516,516,Výdaje na nákup služeb,8785000.00,8995000.00,6965461.20,6113427.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss517,517,Výdaje na ostatní nákupy,4100000.00,4280000.00,3137396.28,2713383.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss519,519,"Výdaje související s neinvestičními nákupy, příspěvky, náhrady a výdaje na věcné dary",110000.00,110000.00,49973.00,41300.00,,,,

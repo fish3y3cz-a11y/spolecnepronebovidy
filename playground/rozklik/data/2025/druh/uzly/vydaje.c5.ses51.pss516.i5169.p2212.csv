@@ -1,0 +1,7 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5169/p2212,2212,Silnice,428000.00,428000.00,481209.74,397694.00,,,,
+faktura,f168,,ZD-2025-15601,,,88563.53,73193.00,2025-01-19,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – leden
+faktura,f169,,ZD-2025-15702,,,93526.95,77295.00,2025-02-09,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – únor
+faktura,f170,,ZD-2025-15803,,,110558.91,91371.00,2025-03-03,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – březen
+faktura,f171,,ZD-2025-15911,,,97850.28,80868.00,2025-11-21,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – listopad
+faktura,f172,,ZD-2025-16012,,,90710.07,74967.00,2025-12-08,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – prosinec

@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses50/pss502,502,Výdaje na ostatní platby za provedenou práci,2100000.00,2190000.00,1559250.00,1559250.00,,,,
+podrizeny_uzel,vydaje/c5/ses50/pss502/i5021,5021,Ostatní osobní výdaje,0.00,90000.00,0.00,0.00,,,,
+podrizeny_uzel,vydaje/c5/ses50/pss502/i5023,5023,Odměny členů zastupitelstev obcí a krajů,2100000.00,2100000.00,1559250.00,1559250.00,,,,

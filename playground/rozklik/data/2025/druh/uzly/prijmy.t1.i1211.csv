@@ -1,0 +1,14 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t1/i1211,1211,Příjem z daně z přidané hodnoty,20210000.00,20210000.00,19785724.00,19785724.00,,,,
+prijem,p1,,FU-2025-01,,,1520010.00,1520010.00,2025-01-15,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod leden
+prijem,p8,,FU-2025-08,,,1825294.00,1825294.00,2025-02-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod únor
+prijem,p15,,FU-2025-15,,,1817237.00,1817237.00,2025-03-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod březen
+prijem,p22,,FU-2025-22,,,1517138.00,1517138.00,2025-04-16,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod duben
+prijem,p29,,FU-2025-29,,,1780988.00,1780988.00,2025-05-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod květen
+prijem,p36,,FU-2025-36,,,1661657.00,1661657.00,2025-06-10,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červen
+prijem,p43,,FU-2025-43,,,1523710.00,1523710.00,2025-07-17,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červenec
+prijem,p50,,FU-2025-50,,,1612139.00,1612139.00,2025-08-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod srpen
+prijem,p57,,FU-2025-57,,,1523042.00,1523042.00,2025-09-11,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod září
+prijem,p64,,FU-2025-64,,,1525236.00,1525236.00,2025-10-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod říjen
+prijem,p71,,FU-2025-71,,,1670397.00,1670397.00,2025-11-12,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod listopad
+prijem,p78,,FU-2025-78,,,1808876.00,1808876.00,2025-12-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod prosinec

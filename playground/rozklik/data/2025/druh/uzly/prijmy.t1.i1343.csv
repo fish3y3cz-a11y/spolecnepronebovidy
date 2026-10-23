@@ -1,0 +1,14 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t1/i1343,1343,Příjem z poplatku za užívání veřejného prostranství,38000.00,38000.00,38004.00,38004.00,,,,
+prijem,p3,,POP-2025-03,,,3167.00,3167.00,2025-01-28,,,Místní poplatky – souhrn plateb za leden
+prijem,p10,,POP-2025-10,,,3167.00,3167.00,2025-02-28,,,Místní poplatky – souhrn plateb za únor
+prijem,p17,,POP-2025-17,,,3167.00,3167.00,2025-03-28,,,Místní poplatky – souhrn plateb za březen
+prijem,p24,,POP-2025-24,,,3167.00,3167.00,2025-04-28,,,Místní poplatky – souhrn plateb za duben
+prijem,p31,,POP-2025-31,,,3167.00,3167.00,2025-05-28,,,Místní poplatky – souhrn plateb za květen
+prijem,p38,,POP-2025-38,,,3167.00,3167.00,2025-06-28,,,Místní poplatky – souhrn plateb za červen
+prijem,p45,,POP-2025-45,,,3167.00,3167.00,2025-07-28,,,Místní poplatky – souhrn plateb za červenec
+prijem,p52,,POP-2025-52,,,3167.00,3167.00,2025-08-28,,,Místní poplatky – souhrn plateb za srpen
+prijem,p59,,POP-2025-59,,,3167.00,3167.00,2025-09-28,,,Místní poplatky – souhrn plateb za září
+prijem,p66,,POP-2025-66,,,3167.00,3167.00,2025-10-28,,,Místní poplatky – souhrn plateb za říjen
+prijem,p73,,POP-2025-73,,,3167.00,3167.00,2025-11-28,,,Místní poplatky – souhrn plateb za listopad
+prijem,p80,,POP-2025-80,,,3167.00,3167.00,2025-12-28,,,Místní poplatky – souhrn plateb za prosinec

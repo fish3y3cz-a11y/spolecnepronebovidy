@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s2/o22/pd221/p2212/i5169,5169,Nákup ostatních služeb,450000.00,510000.00,505269.38,417578.00,,,,
+faktura,f352,,ZD-2026-11801,,,170987.52,141312.00,2026-01-05,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – leden
+faktura,f353,,ZD-2026-11902,,,163852.15,135415.00,2026-02-23,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – únor
+faktura,f354,,ZD-2026-12003,,,170429.71,140851.00,2026-03-19,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – březen

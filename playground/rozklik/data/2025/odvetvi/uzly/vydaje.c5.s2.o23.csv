@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s2/o23,23,Vodní hospodářství,1615000.00,1675000.00,1569722.11,1297291.00,,,,
+podrizeny_uzel,vydaje/c5/s2/o23/pd231,231,Pitná voda,494000.00,494000.00,459570.10,379810.00,,,,
+podrizeny_uzel,vydaje/c5/s2/o23/pd232,232,Odvádění a čištění odpadních vod,1121000.00,1181000.00,1110152.01,917481.00,,,,

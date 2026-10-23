@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blog – Společně pro Nebovidy</title>
+<meta name="description" content="Příspěvky členů občanské iniciativy Společně pro Nebovidy.">
+<meta name="theme-color" content="#13213c">
+<link rel="canonical" href="https://spolecnepronebovidy.cz/blog/">
+<meta property="og:title" content="Blog">
+<meta property="og:description" content="Příspěvky členů občanské iniciativy Společně pro Nebovidy.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://spolecnepronebovidy.cz/blog/">
+<meta property="og:image" content="https://spolecnepronebovidy.cz/img/og.png">
+<link rel="icon" href="/img/logo.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="alternate" type="application/rss+xml" title="Blog – Společně pro Nebovidy" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap nav">
+    <a class="brand" href="/">
+      <img src="/img/logo.svg" alt="">
+      <span><small>Společně pro</small><strong>Nebovidy</strong></span>
+    </a>
+    <nav aria-label="Hlavní navigace">
+      <ul>
+        <li><a href="/#o-nas">O nás</a></li>
+        <li><a href="/#zaciname">Začínáme</a></li>
+        <li><a href="/blog/" aria-current="page">Blog</a></li>
+        <li><a href="/#kontakt">Kontakt</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+<div class="page-head">
+  <div class="wrap">
+    <div class="label">Blog</div>
+    <h1>Blog</h1>
+    <p>Příspěvky, postřehy a pozvánky od členů iniciativy Společně pro Nebovidy.</p>
+  </div>
+</div>
+
+<section>
+  <div class="wrap">
+    <div class="post-list">
+      <a class="post-card" href="/blog/2026-10-18-spoustime-web/">
+        <div class="meta">18. října 2026 · Jan Polcar</div>
+        <h2>Spouštíme web</h2>
+        <p>Nově nás najdete na spolecnepronebovidy.cz. Budeme sem přidávat novinky, plány a pozvánky. Na tomhle blogu budou psát přímo členové iniciativy – stačí jim k tomu poslat e-mail.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Společně pro Nebovidy · neformální občanská iniciativa</span>
+    <a class="js-mail" href="mailto:info@spolecnepronebovidy.cz">info@spolecnepronebovidy.cz</a>
+  </div>
+</footer>
+
+<template id="mail-help">
+  <div class="mail-help" role="status">
+    <p>Neotevřel se vám e-mail? Napište nám na <strong>info@spolecnepronebovidy.cz</strong></p>
+    <div class="actions">
+      <button type="button" class="btn primary js-copy">Zkopírovat adresu</button>
+      <a class="btn outline" target="_blank" rel="noopener" href="https://mail.google.com/mail/?view=cm&amp;to=info@spolecnepronebovidy.cz&amp;su=N%C3%A1pad%20pro%20Nebovidy">Napsat přes Gmail</a>
+    </div>
+  </div>
+</template>
+
+<script>
+  // mailto: nic neudělá, když návštěvník nemá nastavený e-mailový program,
+  // proto po kliknutí vždy ukážeme adresu s možností ji zkopírovat.
+  document.querySelectorAll('.js-mail').forEach(function (link) {
+    link.addEventListener('click', function () {
+      var host = link.closest('.cta') || link;
+      if (host.nextElementSibling && host.nextElementSibling.classList.contains('mail-help')) return;
+      var help = document.getElementById('mail-help').content.firstElementChild.cloneNode(true);
+      host.insertAdjacentElement('afterend', help);
+      help.querySelector('.js-copy').addEventListener('click', function (e) {
+        var btn = e.currentTarget;
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText('info@spolecnepronebovidy.cz').then(function () { btn.textContent = 'Zkopírováno ✓'; }, function () {});
+        }
+      });
+    });
+  });
+</script>
+</body>
+</html>

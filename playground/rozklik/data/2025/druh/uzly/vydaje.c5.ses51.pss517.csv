@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss517,517,Výdaje na ostatní nákupy,3897000.00,4157000.00,3293823.96,2906277.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss517/i5171,5171,Opravy a udržování,3716000.00,3976000.00,3130203.96,2742657.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss517/i5173,5173,Cestovné,38000.00,38000.00,37620.00,37620.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss517/i5175,5175,Pohoštění,143000.00,143000.00,126000.00,126000.00,,,,

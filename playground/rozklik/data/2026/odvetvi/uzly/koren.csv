@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,,,Rozpočet,106116000.00,109656000.00,89865206.72,84354023.00,,,,
+podrizeny_uzel,prijmy,,Příjmy,51800000.00,59770000.00,46226012.00,46226012.00,,,,
+podrizeny_uzel,vydaje,,Výdaje,53058000.00,54828000.00,44764194.72,39253011.00,,,,
+podrizeny_uzel,financovani,,Financování,1258000.00,-4942000.00,-1125000.00,-1125000.00,,,,
