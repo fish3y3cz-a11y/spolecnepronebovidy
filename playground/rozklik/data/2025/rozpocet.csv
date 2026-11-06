@@ -1,0 +1,91 @@
+﻿rok,paragraf,paragraf_nazev,polozka,polozka_nazev,trida,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc
+2025,0000,Pro příjmy (technický záznam),1111,Příjem z daně z příjmů fyzických osob placené plátci,1,9212000.00,9212000.00,9196836.00,9196836.00
+2025,0000,Pro příjmy (technický záznam),1112,Příjem z daně z příjmů fyzických osob placené poplatníky,1,235000.00,235000.00,199750.00,199750.00
+2025,0000,Pro příjmy (technický záznam),1113,Příjem z daně z příjmů fyzických osob vybírané srážkou podle zvláštní sazby daně,1,987000.00,987000.00,956866.00,956866.00
+2025,0000,Pro příjmy (technický záznam),1121,Příjem z daně z příjmů právnických osob,1,10246000.00,10246000.00,10512431.00,10512431.00
+2025,0000,Pro příjmy (technický záznam),1211,Příjem z daně z přidané hodnoty,1,20210000.00,20210000.00,19785724.00,19785724.00
+2025,0000,Pro příjmy (technický záznam),1341,Příjem z poplatku ze psů,1,66000.00,66000.00,62700.00,62700.00
+2025,0000,Pro příjmy (technický záznam),1343,Příjem z poplatku za užívání veřejného prostranství,1,38000.00,38000.00,38004.00,38004.00
+2025,0000,Pro příjmy (technický záznam),1345,Příjem z poplatku za obecní systém odpadového hospodářství a příjem z poplatku za odkládání komunálního odpadu z nemovité věci,1,1786000.00,1786000.00,1660980.00,1660980.00
+2025,0000,Pro příjmy (technický záznam),1361,Příjem ze správních poplatků,1,56000.00,56000.00,54949.00,54949.00
+2025,0000,Pro příjmy (technický záznam),1381,Příjem z daně z hazardních her s výjimkou dílčí daně z technických her za zdaňovací období do konce roku 2023,1,169000.00,169000.00,167064.00,167064.00
+2025,0000,Pro příjmy (technický záznam),1511,Příjem z daně z nemovitých věcí,1,2914000.00,2914000.00,2884860.00,2884860.00
+2025,1037,Celospolečenské funkce lesů,2111,"Příjem z poskytování služeb, výrobků, prací, výkonů a práv",2,423000.00,423000.00,384930.00,384930.00
+2025,3639,Správa obecního majetku,2131,Příjem z pronájmu nebo pachtu pozemků,2,207000.00,207000.00,202860.00,202860.00
+2025,3612,Obecní byty,2132,Příjem z pronájmu nebo pachtu ostatních nemovitých věcí a jejich částí,2,921000.00,921000.00,920988.00,920988.00
+2025,3613,Kulturní dům a nebytové prostory,2132,Příjem z pronájmu nebo pachtu ostatních nemovitých věcí a jejich částí,2,338000.00,338000.00,338004.00,338004.00
+2025,6310,Obecné příjmy a výdaje z finančních operací,2141,Příjem z úroků,2,226000.00,226000.00,216589.00,216589.00
+2025,3725,Využívání a zneškodňování komunálních odpadů,2324,Přijaté neinvestiční příspěvky a náhrady,2,169000.00,169000.00,163963.00,163963.00
+2025,0000,Pro příjmy (technický záznam),4112,Neinvestiční přijaté transfery ze státního rozpočtu v rámci souhrnného dotačního vztahu,4,489000.00,489000.00,489000.00,489000.00
+2025,0000,Pro příjmy (technický záznam),4216,Ostatní investiční přijaté transfery ze státního rozpočtu,4,0.00,400000.00,400000.00,400000.00
+2025,6171,Obecní úřad,5011,Platy zaměstnanců v pracovním poměru vyjma zaměstnanců na služebních místech,5,3610000.00,3610000.00,3573900.00,3573900.00
+2025,6112,Zastupitelstvo,5023,Odměny členů zastupitelstev obcí a krajů,5,1995000.00,1995000.00,1975050.00,1975050.00
+2025,6171,Obecní úřad,5031,Povinné pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti,5,893000.00,893000.00,884070.00,884070.00
+2025,6112,Zastupitelstvo,5032,Povinné pojistné na veřejné zdravotní pojištění,5,181000.00,181000.00,179190.00,179190.00
+2025,6171,Obecní úřad,5032,Povinné pojistné na veřejné zdravotní pojištění,5,328000.00,328000.00,324720.00,324720.00
+2025,6171,Obecní úřad,5038,Pojistné na zákonné pojištění odpovědnosti zaměstnavatele za škodu při pracovním úrazu nebo nemoci z povolání,5,17000.00,17000.00,16830.00,16830.00
+2025,3314,Činnosti knihovnické,5136,Knihy a obdobné listinné informační prostředky,5,57000.00,57000.00,54880.00,49000.00
+2025,6171,Obecní úřad,5136,Knihy a obdobné listinné informační prostředky,5,24000.00,24000.00,24640.00,22000.00
+2025,3745,Veřejná zeleň,5137,Drobný dlouhodobý hmotný majetek,5,133000.00,133000.00,142780.00,118000.00
+2025,5512,Dobrovolní hasiči,5137,Drobný dlouhodobý hmotný majetek,5,171000.00,171000.00,205700.00,170000.00
+2025,6171,Obecní úřad,5137,Drobný dlouhodobý hmotný majetek,5,114000.00,114000.00,118580.00,98000.00
+2025,3314,Činnosti knihovnické,5139,Nákup materiálu jinde nezařazený,5,24000.00,24000.00,25410.00,21000.00
+2025,3639,Správa obecního majetku,5139,Nákup materiálu jinde nezařazený,5,171000.00,171000.00,164424.48,135888.00
+2025,3745,Veřejná zeleň,5139,Nákup materiálu jinde nezařazený,5,114000.00,114000.00,170613.90,151590.00
+2025,6171,Obecní úřad,5139,Nákup materiálu jinde nezařazený,5,209000.00,209000.00,208839.95,172595.00
+2025,6171,Obecní úřad,5151,Studená voda včetně stočného a úplaty za odvod dešťových vod,5,29000.00,29000.00,26559.68,23714.00
+2025,3613,Kulturní dům a nebytové prostory,5153,Plyn,5,171000.00,171000.00,179076.37,147997.00
+2025,6171,Obecní úřad,5153,Plyn,5,133000.00,133000.00,140698.80,116280.00
+2025,3412,Sportovní zařízení ve vlastnictví obce,5154,Elektrická energie,5,152000.00,152000.00,146879.48,121388.00
+2025,3612,Obecní byty,5154,Elektrická energie,5,86000.00,86000.00,82852.33,68473.00
+2025,3631,Veřejné osvětlení,5154,Elektrická energie,5,399000.00,399000.00,383102.94,316614.00
+2025,6171,Obecní úřad,5154,Elektrická energie,5,152000.00,152000.00,146879.48,121388.00
+2025,5512,Dobrovolní hasiči,5156,Pohonné hmoty a maziva,5,86000.00,86000.00,84700.00,70000.00
+2025,6171,Obecní úřad,5161,Poštovní služby,5,43000.00,43000.00,40728.00,40728.00
+2025,6171,Obecní úřad,5162,Služby elektronických komunikací,5,133000.00,133000.00,132381.26,109406.00
+2025,6310,Obecné příjmy a výdaje z finančních operací,5163,Služby peněžních ústavů,5,57000.00,57000.00,54150.00,54150.00
+2025,6320,Pojištění funkčně nespecifikované,5163,Služby peněžních ústavů,5,200000.00,200000.00,192400.00,192400.00
+2025,6171,Obecní úřad,5166,"Konzultační, poradenské a právní služby",5,266000.00,266000.00,187566.94,155014.00
+2025,6171,Obecní úřad,5167,Služby školení a vzdělávání,5,67000.00,67000.00,62920.00,52000.00
+2025,6171,Obecní úřad,5168,Zpracování dat a služby související s informačními a komunikačními technologiemi,5,342000.00,342000.00,302890.83,250323.00
+2025,1037,Celospolečenské funkce lesů,5169,Nákup ostatních služeb,5,285000.00,285000.00,237160.00,196000.00
+2025,2212,Silnice,5169,Nákup ostatních služeb,5,428000.00,428000.00,481209.74,397694.00
+2025,2310,Pitná voda,5169,Nákup ostatních služeb,5,494000.00,494000.00,459570.10,379810.00
+2025,2321,Odvádění a čištění odpadních vod a nakládání s kaly,5169,Nákup ostatních služeb,5,836000.00,836000.00,801602.01,662481.00
+2025,3319,Ostatní záležitosti kultury,5169,Nákup ostatních služeb,5,361000.00,361000.00,254100.00,210000.00
+2025,3341,Rozhlas a televize,5169,Nákup ostatních služeb,5,38000.00,38000.00,39930.00,33000.00
+2025,3421,Využití volného času dětí a mládeže,5169,Nákup ostatních služeb,5,57000.00,57000.00,54000.00,54000.00
+2025,3632,Pohřebnictví,5169,Nákup ostatních služeb,5,114000.00,114000.00,98000.00,98000.00
+2025,3639,Správa obecního majetku,5169,Nákup ostatních služeb,5,618000.00,618000.00,581960.39,480959.00
+2025,3722,Svoz odpadu,5169,Nákup ostatních služeb,5,2185000.00,2185000.00,2131304.00,1902950.00
+2025,3723,Sběr a svoz ostatních odpadů jiných než nebezpečných a komunálních,5169,Nákup ostatních služeb,5,361000.00,361000.00,359645.44,321112.00
+2025,3745,Veřejná zeleň,5169,Nákup ostatních služeb,5,855000.00,855000.00,947867.00,947867.00
+2025,5512,Dobrovolní hasiči,5169,Nákup ostatních služeb,5,114000.00,114000.00,111320.00,92000.00
+2025,6171,Obecní úřad,5169,Nákup ostatních služeb,5,494000.00,494000.00,724154.75,598475.00
+2025,2212,Silnice,5171,Opravy a udržování,5,1520000.00,1520000.00,931700.00,770000.00
+2025,2219,Chodníky,5171,Opravy a udržování,5,190000.00,190000.00,0.00,0.00
+2025,2321,Odvádění a čištění odpadních vod a nakládání s kaly,5171,Opravy a udržování,5,285000.00,345000.00,308550.00,255000.00
+2025,3412,Sportovní zařízení ve vlastnictví obce,5171,Opravy a udržování,5,333000.00,453000.00,324280.00,268000.00
+2025,3612,Obecní byty,5171,Opravy a udržování,5,665000.00,665000.00,630064.96,562558.00
+2025,3613,Kulturní dům a nebytové prostory,5171,Opravy a udržování,5,238000.00,318000.00,279510.00,231000.00
+2025,3631,Veřejné osvětlení,5171,Opravy a udržování,5,247000.00,247000.00,240107.00,240107.00
+2025,6171,Obecní úřad,5171,Opravy a udržování,5,238000.00,238000.00,415992.00,415992.00
+2025,6171,Obecní úřad,5173,Cestovné,5,38000.00,38000.00,37620.00,37620.00
+2025,3319,Ostatní záležitosti kultury,5175,Pohoštění,5,86000.00,86000.00,74000.00,74000.00
+2025,6171,Obecní úřad,5175,Pohoštění,5,57000.00,57000.00,52000.00,52000.00
+2025,3399,"Ostatní záležitosti kultury, církví a sdělovacích prostředků",5194,Výdaje na věcné dary,5,105000.00,105000.00,99220.00,82000.00
+2025,3419,Podpora spolků,5222,Neinvestiční transfery spolkům,5,618000.00,618000.00,465000.00,465000.00
+2025,4351,"Osobní asistence, pečovatelská služba a podpora samostatného bydlení",5229,Ostatní neinvestiční transfery neziskovým a podobným osobám,5,114000.00,114000.00,110000.00,110000.00
+2025,3111,Mateřská škola,5331,Neinvestiční příspěvky zřízeným příspěvkovým organizacím,5,1710000.00,1710000.00,1710436.00,1710436.00
+2025,3113,Základní škola,5331,Neinvestiční příspěvky zřízeným příspěvkovým organizacím,5,2280000.00,2280000.00,2187864.00,2187864.00
+2025,6399,Ostatní finanční operace,5362,Platby daní státnímu rozpočtu,5,618000.00,618000.00,525300.00,525300.00
+2025,3399,"Ostatní záležitosti kultury, církví a sdělovacích prostředků",5492,Dary fyzickým osobám,5,57000.00,57000.00,4000.00,4000.00
+2025,6409,Ostatní činnosti jinde nezařazené,5901,Nespecifikované rezervy,5,855000.00,595000.00,0.00,0.00
+2025,3113,Základní škola,6119,Ostatní nákup dlouhodobého nehmotného majetku,6,650000.00,650000.00,629200.00,520000.00
+2025,2212,Silnice,6121,Stavby,6,6200000.00,6200000.00,6146800.00,5080000.00
+2025,3613,Kulturní dům a nebytové prostory,6121,Stavby,6,900000.00,900000.00,847000.00,700000.00
+2025,3631,Veřejné osvětlení,6121,Stavby,6,650000.00,650000.00,630000.00,630000.00
+2025,5512,Dobrovolní hasiči,6121,Stavby,6,4800000.00,4800000.00,4682700.00,3870000.00
+2025,3745,Veřejná zeleň,6123,Dopravní prostředky,6,2400000.00,2400000.00,2359500.00,1950000.00
+2025,0000,Pro příjmy (technický záznam),8115,Změna stavu prostředků na účtech,8,-3741000.00,-4141000.00,0.00,0.00
+2025,0000,Pro příjmy (technický záznam),8124,Splátky úvěrů,8,-1500000.00,-1500000.00,-1500000.00,-1500000.00

@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5169/p3722/z13/sm14,,Smlouva SML 2024/112,0.00,0.00,1713904.64,1530272.00,,,,
+faktura,f271,,OM-2026-3701,,,192064.32,171486.00,2026-01-17,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – leden
+faktura,f272,,OM-2026-3802,,,164355.52,146746.00,2026-02-06,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – únor
+faktura,f273,,OM-2026-3903,,,171204.32,152861.00,2026-03-07,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – březen
+faktura,f274,,OM-2026-4004,,,210954.24,188352.00,2026-04-15,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – duben
+faktura,f275,,OM-2026-4105,,,208119.52,185821.00,2026-05-21,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – květen
+faktura,f276,,OM-2026-4206,,,205296.00,183300.00,2026-06-13,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – červen
+faktura,f277,,OM-2026-4307,,,216601.28,193394.00,2026-07-11,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – červenec
+faktura,f278,,OM-2026-4408,,,168138.88,150124.00,2026-08-20,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – srpen
+faktura,f279,,OM-2026-4509,,,177170.56,158188.00,2026-09-22,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – září

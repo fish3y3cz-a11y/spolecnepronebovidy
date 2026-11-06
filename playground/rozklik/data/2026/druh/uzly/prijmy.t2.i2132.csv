@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t2/i2132,2132,Příjem z pronájmu nebo pachtu ostatních nemovitých věcí a jejich částí,1340000.00,1340000.00,1004994.00,1004994.00,,,,
+podrizeny_uzel,prijmy/t2/i2132/p3612,3612,Obecní byty,980000.00,980000.00,734994.00,734994.00,,,,
+podrizeny_uzel,prijmy/t2/i2132/p3613,3613,Kulturní dům a nebytové prostory,360000.00,360000.00,270000.00,270000.00,,,,

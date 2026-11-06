@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o36/pd363/p3631/i5154,5154,Elektrická energie,420000.00,420000.00,324269.11,267991.00,,,,
+faktura,f244,,EVO-2026-1001,,,37318.82,30842.00,2026-01-21,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – leden
+faktura,f245,,EVO-2026-1102,,,34131.68,28208.00,2026-02-12,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – únor
+faktura,f246,,EVO-2026-1203,,,38349.74,31694.00,2026-03-13,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – březen
+faktura,f247,,EVO-2026-1304,,,37933.50,31350.00,2026-04-10,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – duben
+faktura,f248,,EVO-2026-1405,,,33461.34,27654.00,2026-05-06,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – květen
+faktura,f249,,EVO-2026-1506,,,33108.02,27362.00,2026-06-23,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – červen
+faktura,f250,,EVO-2026-1607,,,34077.23,28163.00,2026-07-12,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – červenec
+faktura,f251,,EVO-2026-1708,,,39166.49,32369.00,2026-08-15,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – srpen
+faktura,f252,,EVO-2026-1809,,,36722.29,30349.00,2026-09-08,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – září

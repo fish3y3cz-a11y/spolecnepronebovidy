@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss513/i5136/p3314,3314,Činnosti knihovnické,60000.00,60000.00,44968.00,40150.00,,,,
+faktura,f372,,FK-26-112,,,23968.00,21400.00,2026-02-16,Knihkupectví U Kocoura – Hana Knížková,99906376,Nákup knih do obecní knihovny
+faktura,f373,,FK-26-389,,,21000.00,18750.00,2026-06-08,Knihkupectví U Kocoura – Hana Knížková,99906376,Nákup knih do obecní knihovny – léto

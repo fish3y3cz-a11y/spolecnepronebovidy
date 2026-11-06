@@ -1,0 +1,13 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s6/o61/pd617/p6171/i5169,5169,Nákup ostatních služeb,520000.00,520000.00,442077.13,365353.00,,,,
+faktura,f355,,SL-2026-12101,,,38538.50,31850.00,2026-01-14,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – leden"
+faktura,f356,,SL-2026-12202,,,34033.67,28127.00,2026-02-19,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – únor"
+faktura,f357,,SL-2026-12303,,,36436.73,30113.00,2026-03-09,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – březen"
+faktura,f358,,SL-2026-12404,,,37722.96,31176.00,2026-04-09,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – duben"
+faktura,f359,,SL-2026-12505,,,34912.13,28853.00,2026-05-16,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – květen"
+faktura,f360,,SL-2026-12606,,,31140.56,25736.00,2026-06-21,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – červen"
+faktura,f361,,SL-2026-12707,,,38325.54,31674.00,2026-07-20,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – červenec"
+faktura,f362,,SL-2026-12808,,,33532.73,27713.00,2026-08-16,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – srpen"
+faktura,f363,,SL-2026-12909,,,36434.31,30111.00,2026-09-20,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – září"
+faktura,f399,,UC-26-PS,,,77440.00,64000.00,2026-05-05,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid po jarní povodni (ostatní služby)
+faktura,f400,,OIT-26-WEB,,,43560.00,36000.00,2026-04-10,ObecIT s.r.o. (fiktivní),99906066,Provoz webu obce a úřední desky

@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses52/pss522,522,Neinvestiční transfery neziskovým a podobným osobám,770000.00,770000.00,620000.00,620000.00,,,,
+podrizeny_uzel,vydaje/c5/ses52/pss522/i5222,5222,Neinvestiční transfery spolkům,650000.00,650000.00,500000.00,500000.00,,,,
+podrizeny_uzel,vydaje/c5/ses52/pss522/i5229,5229,Ostatní neinvestiční transfery neziskovým a podobným osobám,120000.00,120000.00,120000.00,120000.00,,,,

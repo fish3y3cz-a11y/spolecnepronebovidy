@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss515/i5153/p3613,3613,Kulturní dům a nebytové prostory,180000.00,180000.00,139897.78,115618.00,,,,
+faktura,f253,,PC-2026-1901,,,14655.52,12112.00,2026-01-23,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – leden
+faktura,f254,,PC-2026-2002,,,16355.57,13517.00,2026-02-14,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – únor
+faktura,f255,,PC-2026-2103,,,15393.62,12722.00,2026-03-08,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – březen
+faktura,f256,,PC-2026-2204,,,13440.68,11108.00,2026-04-10,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – duben
+faktura,f257,,PC-2026-2305,,,15964.74,13194.00,2026-05-11,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – květen
+faktura,f258,,PC-2026-2406,,,14017.85,11585.00,2026-06-20,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – červen
+faktura,f259,,PC-2026-2507,,,15045.14,12434.00,2026-07-03,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – červenec
+faktura,f260,,PC-2026-2608,,,17330.83,14323.00,2026-08-21,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – srpen
+faktura,f261,,PC-2026-2709,,,17693.83,14623.00,2026-09-09,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – září

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://spolecnepronebovidy.cz/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog – Společně pro Nebovidy</title>
+    <link>https://spolecnepronebovidy.cz/</link>
+    <atom:link href="https://spolecnepronebovidy.cz/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Příspěvky členů občanské iniciativy Společně pro Nebovidy.</description>
+    <language>cs</language>
+    <item>
+      <title>Spouštíme web</title>
+      <link>https://spolecnepronebovidy.cz/blog/2026-10-18-spoustime-web/</link>
+      <description>&lt;p&gt;Nově nás najdete na spolecnepronebovidy.cz. Budeme sem přidávat novinky, plány a pozvánky.&lt;/p&gt;
+&lt;p&gt;Na tomhle blogu budou psát přímo členové iniciativy – stačí jim k tomu poslat e-mail.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 18 Oct 2026 18:00:00 GMT</pubDate>
+      <dc:creator>Společně pro Nebovidy</dc:creator>
+      <guid>https://spolecnepronebovidy.cz/blog/2026-10-18-spoustime-web/</guid>
+    </item>
+  </channel>
+</rss>

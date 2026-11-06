@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s6/o61/pd617/p6171/i5161,5161,Poštovní služby,45000.00,45000.00,33272.00,33272.00,,,,
+faktura,f292,,PS-2026-5801,,,3263.00,3263.00,2026-01-12,Poštovní služby a.s. (fiktivní),99906058,Poštovné – leden
+faktura,f293,,PS-2026-5902,,,3683.00,3683.00,2026-02-20,Poštovní služby a.s. (fiktivní),99906058,Poštovné – únor
+faktura,f294,,PS-2026-6003,,,3478.00,3478.00,2026-03-06,Poštovní služby a.s. (fiktivní),99906058,Poštovné – březen
+faktura,f295,,PS-2026-6104,,,3636.00,3636.00,2026-04-19,Poštovní služby a.s. (fiktivní),99906058,Poštovné – duben
+faktura,f296,,PS-2026-6205,,,4219.00,4219.00,2026-05-21,Poštovní služby a.s. (fiktivní),99906058,Poštovné – květen
+faktura,f297,,PS-2026-6306,,,3694.00,3694.00,2026-06-13,Poštovní služby a.s. (fiktivní),99906058,Poštovné – červen
+faktura,f298,,PS-2026-6407,,,3429.00,3429.00,2026-07-09,Poštovní služby a.s. (fiktivní),99906058,Poštovné – červenec
+faktura,f299,,PS-2026-6508,,,3846.00,3846.00,2026-08-14,Poštovní služby a.s. (fiktivní),99906058,Poštovné – srpen
+faktura,f300,,PS-2026-6609,,,4024.00,4024.00,2026-09-22,Poštovní služby a.s. (fiktivní),99906058,Poštovné – září

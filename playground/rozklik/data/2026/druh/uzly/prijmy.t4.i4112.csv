@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,prijmy/t4/i4112,4112,Neinvestiční přijaté transfery ze státního rozpočtu v rámci souhrnného dotačního vztahu,520000.00,520000.00,389997.00,389997.00,,,,
+prijem,p100,,SDV-2026-02,,,43333.00,43333.00,2026-01-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – leden
+prijem,p107,,SDV-2026-09,,,43333.00,43333.00,2026-02-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – únor
+prijem,p114,,SDV-2026-16,,,43333.00,43333.00,2026-03-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – březen
+prijem,p121,,SDV-2026-23,,,43333.00,43333.00,2026-04-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – duben
+prijem,p128,,SDV-2026-30,,,43333.00,43333.00,2026-05-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – květen
+prijem,p135,,SDV-2026-37,,,43333.00,43333.00,2026-06-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – červen
+prijem,p142,,SDV-2026-44,,,43333.00,43333.00,2026-07-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – červenec
+prijem,p149,,SDV-2026-51,,,43333.00,43333.00,2026-08-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – srpen
+prijem,p156,,SDV-2026-58,,,43333.00,43333.00,2026-09-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – září

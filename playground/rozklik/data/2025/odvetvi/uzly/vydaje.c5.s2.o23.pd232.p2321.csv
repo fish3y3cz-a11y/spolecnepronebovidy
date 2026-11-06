@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s2/o23/pd232/p2321,2321,Odvádění a čištění odpadních vod a nakládání s kaly,1121000.00,1181000.00,1110152.01,917481.00,,,,
+podrizeny_uzel,vydaje/c5/s2/o23/pd232/p2321/i5169,5169,Nákup ostatních služeb,836000.00,836000.00,801602.01,662481.00,,,,
+podrizeny_uzel,vydaje/c5/s2/o23/pd232/p2321/i5171,5171,Opravy a udržování,285000.00,345000.00,308550.00,255000.00,,,,

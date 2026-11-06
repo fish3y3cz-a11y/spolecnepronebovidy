@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o37/pd374/p3745,3745,Veřejná zeleň,1102000.00,1102000.00,1261260.90,1217457.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o37/pd374/p3745/i5137,5137,Drobný dlouhodobý hmotný majetek,133000.00,133000.00,142780.00,118000.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o37/pd374/p3745/i5139,5139,Nákup materiálu jinde nezařazený,114000.00,114000.00,170613.90,151590.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o37/pd374/p3745/i5169,5169,Nákup ostatních služeb,855000.00,855000.00,947867.00,947867.00,,,,

@@ -1,0 +1,6 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss515,515,"Výdaje na nákup vody, paliv a energie",1270000.00,1270000.00,945707.53,783100.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss515/i5151,5151,Studená voda včetně stočného a úplaty za odvod dešťových vod,30000.00,30000.00,22940.96,20483.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss515/i5153,5153,Plyn,320000.00,320000.00,249817.81,206461.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss515/i5154,5154,Elektrická energie,830000.00,830000.00,626363.76,517656.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss515/i5156,5156,Pohonné hmoty a maziva,90000.00,90000.00,46585.00,38500.00,,,,

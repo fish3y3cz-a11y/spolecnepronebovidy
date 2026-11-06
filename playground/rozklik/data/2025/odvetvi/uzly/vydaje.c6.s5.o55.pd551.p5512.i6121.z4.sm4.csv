@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c6/s5/o55/pd551/p5512/i6121/z4/sm4,,Smlouva SoD 2025/003,0.00,0.00,4682700.00,3870000.00,,,,
+faktura,f7,,SV-25-0531,,,1936000.00,1600000.00,2025-05-31,Stavby Vysočina s.r.o. (fiktivní),99906163,Zbrojnice – hrubá stavba
+faktura,f8,,SV-25-0930,,,1754500.00,1450000.00,2025-09-30,Stavby Vysočina s.r.o. (fiktivní),99906163,Zbrojnice – střecha a zateplení
+faktura,f9,,SV-25-1128,,,992200.00,820000.00,2025-11-28,Stavby Vysočina s.r.o. (fiktivní),99906163,Zbrojnice – dokončení vč. opravy příjezdu

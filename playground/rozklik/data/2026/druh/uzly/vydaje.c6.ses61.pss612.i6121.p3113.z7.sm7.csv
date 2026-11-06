@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c6/ses61/pss612/i6121/p3113/z7/sm7,,Smlouva SoD 2026/004,0.00,0.00,9014500.00,7450000.00,,,,
+faktura,f226,,SV-26-0531,,,2904000.00,2400000.00,2026-05-31,Stavby Vysočina s.r.o. (fiktivní),99906163,Výměna oken ZŠ – soupis prací 04–05/2026
+faktura,f227,,SV-26-0731,,,3751000.00,3100000.00,2026-07-31,Stavby Vysočina s.r.o. (fiktivní),99906163,Výměna oken ZŠ – soupis prací 06–07/2026 vč. opravy omítek
+faktura,f228,,SV-26-0831,,,2359500.00,1950000.00,2026-08-31,Stavby Vysočina s.r.o. (fiktivní),99906163,Výměna oken ZŠ – soupis prací 08/2026

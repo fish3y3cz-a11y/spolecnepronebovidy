@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o36/pd363/p3639,3639,Správa obecního majetku,830000.00,830000.00,595887.49,492469.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o36/pd363/p3639/i5139,5139,Nákup materiálu jinde nezařazený,180000.00,180000.00,123550.68,102108.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o36/pd363/p3639/i5169,5169,Nákup ostatních služeb,650000.00,650000.00,472336.81,390361.00,,,,

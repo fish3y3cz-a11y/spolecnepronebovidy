@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses53/pss533/i5331/p3113,3113,Základní škola,2400000.00,2400000.00,1722888.00,1722888.00,,,,
+faktura,f334,,PZS-2026-10001,,,201344.00,201344.00,2026-01-07,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – leden
+faktura,f335,,PZS-2026-10102,,,193980.00,193980.00,2026-02-20,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – únor
+faktura,f336,,PZS-2026-10203,,,172984.00,172984.00,2026-03-09,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – březen
+faktura,f337,,PZS-2026-10304,,,201568.00,201568.00,2026-04-06,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – duben
+faktura,f338,,PZS-2026-10405,,,222035.00,222035.00,2026-05-15,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – květen
+faktura,f339,,PZS-2026-10506,,,168889.00,168889.00,2026-06-06,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – červen
+faktura,f340,,PZS-2026-10607,,,194827.00,194827.00,2026-07-20,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – červenec
+faktura,f341,,PZS-2026-10708,,,188328.00,188328.00,2026-08-13,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – srpen
+faktura,f342,,PZS-2026-10809,,,178933.00,178933.00,2026-09-15,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – září

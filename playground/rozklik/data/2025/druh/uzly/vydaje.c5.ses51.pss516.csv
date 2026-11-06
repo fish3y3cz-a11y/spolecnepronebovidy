@@ -1,0 +1,9 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516,516,Výdaje na nákup služeb,8348000.00,8348000.00,8254860.46,7228369.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516/i5161,5161,Poštovní služby,43000.00,43000.00,40728.00,40728.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516/i5162,5162,Služby elektronických komunikací,133000.00,133000.00,132381.26,109406.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516/i5163,5163,Služby peněžních ústavů,257000.00,257000.00,246550.00,246550.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516/i5166,5166,"Konzultační, poradenské a právní služby",266000.00,266000.00,187566.94,155014.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516/i5167,5167,Služby školení a vzdělávání,67000.00,67000.00,62920.00,52000.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516/i5168,5168,Zpracování dat a služby související s informačními a komunikačními technologiemi,342000.00,342000.00,302890.83,250323.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss516/i5169,5169,Nákup ostatních služeb,7240000.00,7240000.00,7281823.43,6374348.00,,,,

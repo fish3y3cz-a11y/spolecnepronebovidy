@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o37/pd372/p3723/i5169/z13/sm14,,Smlouva SML 2024/112,0.00,0.00,294549.92,262991.00,,,,
+faktura,f280,,OMT-2026-4603,,,106873.76,95423.00,2026-03-06,Odpady Morava s.r.o. (fiktivní),99906031,Svoz tříděného a objemného odpadu – 1. čtvrtletí
+faktura,f281,,OMT-2026-4706,,,83342.56,74413.00,2026-06-08,Odpady Morava s.r.o. (fiktivní),99906031,Svoz tříděného a objemného odpadu – 2. čtvrtletí
+faktura,f282,,OMT-2026-4809,,,104333.60,93155.00,2026-09-11,Odpady Morava s.r.o. (fiktivní),99906031,Svoz tříděného a objemného odpadu – 3. čtvrtletí

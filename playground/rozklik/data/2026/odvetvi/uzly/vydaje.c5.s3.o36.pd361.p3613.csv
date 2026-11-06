@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o36/pd361/p3613,3613,Kulturní dům a nebytové prostory,430000.00,430000.00,246377.78,203618.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o36/pd361/p3613/i5153,5153,Plyn,180000.00,180000.00,139897.78,115618.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o36/pd361/p3613/i5171,5171,Opravy a udržování,250000.00,250000.00,106480.00,88000.00,,,,

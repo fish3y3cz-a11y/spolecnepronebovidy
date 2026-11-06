@@ -1,0 +1,11 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s6/o61/pd617/p6171/i5162,5162,Služby elektronických komunikací,140000.00,140000.00,108452.30,89630.00,,,,
+faktura,f283,,TN-2026-4901,,,12972.41,10721.00,2026-01-12,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – leden
+faktura,f284,,TN-2026-5002,,,11663.19,9639.00,2026-02-07,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – únor
+faktura,f285,,TN-2026-5103,,,11715.22,9682.00,2026-03-14,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – březen
+faktura,f286,,TN-2026-5204,,,13118.82,10842.00,2026-04-18,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – duben
+faktura,f287,,TN-2026-5305,,,11157.41,9221.00,2026-05-11,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – květen
+faktura,f288,,TN-2026-5406,,,11164.67,9227.00,2026-06-14,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – červen
+faktura,f289,,TN-2026-5507,,,11526.46,9526.00,2026-07-09,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – červenec
+faktura,f290,,TN-2026-5608,,,13214.41,10921.00,2026-08-04,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – srpen
+faktura,f291,,TN-2026-5709,,,11919.71,9851.00,2026-09-12,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – září

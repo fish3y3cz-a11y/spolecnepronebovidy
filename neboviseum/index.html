@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NeboviSeum – Společně pro Nebovidy</title>
+<meta name="description" content="Diskuze a ankety obyvatel Nebovid.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#13213c">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' https://challenges.cloudflare.com; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://*.supabase.co https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="same-origin">
+<link rel="icon" href="/img/logo.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+<link rel="stylesheet" href="/neboviseum/app.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap nav">
+    <a class="brand" href="/">
+      <img src="/img/logo.svg" alt="">
+      <span><small>Společně pro</small><strong>Nebovidy</strong></span>
+    </a>
+    <nav aria-label="NeboviSeum" id="app-nav"></nav>
+  </div>
+</header>
+
+<main>
+<div class="page-head">
+  <div class="wrap">
+    <div class="label">NeboviSeum</div>
+    <h1>NeboviSeum</h1>
+    <p>Místo, kde se o Nebovidech mluví otevřeně: témata pod vlastním jménem a anonymní ankety.</p>
+  </div>
+</div>
+
+<section>
+  <div class="wrap" id="app" aria-live="polite">
+    <noscript><p>NeboviSeum potřebuje zapnutý JavaScript.</p></noscript>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Společně pro Nebovidy · neformální občanská iniciativa</span>
+    <a href="mailto:info@spolecnepronebovidy.cz">info@spolecnepronebovidy.cz</a>
+  </div>
+</footer>
+
+<script src="/neboviseum/vendor/supabase.js"></script>
+<script type="module" src="/neboviseum/app.js"></script>
+</body>
+</html>

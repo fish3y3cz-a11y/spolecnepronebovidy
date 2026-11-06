@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5169/p1037,1037,Celospolečenské funkce lesů,300000.00,300000.00,220825.00,182500.00,,,,
+faktura,f370,,2026-0311,,,142780.00,118000.00,2026-03-11,Lesní služby Brabec s.r.o. (fiktivní),99906112,Těžba a přibližování dřeva – obecní les
+faktura,f371,,2026-0905,,,78045.00,64500.00,2026-09-05,Lesní služby Brabec s.r.o. (fiktivní),99906112,Výsadba sazenic a ochrana kultur

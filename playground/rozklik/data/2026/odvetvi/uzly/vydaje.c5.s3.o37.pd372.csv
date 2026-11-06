@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o37/pd372,372,Nakládání s odpady,2680000.00,2680000.00,2008454.56,1793263.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o37/pd372/p3722,3722,Svoz odpadu,2300000.00,2300000.00,1713904.64,1530272.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o37/pd372/p3723,3723,Sběr a svoz ostatních odpadů jiných než nebezpečných a komunálních,380000.00,380000.00,294549.92,262991.00,,,,

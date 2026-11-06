@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5167/p6171,6171,Obecní úřad,70000.00,70000.00,45012.00,37200.00,,,,
+faktura,f395,,VIO-26-11,,,27104.00,22400.00,2026-03-17,Vzdělávací institut Obce s.r.o. (fiktivní),99906155,"Školení – nový stavební zákon, GDPR"
+faktura,f396,,VIO-26-29,,,17908.00,14800.00,2026-09-08,Vzdělávací institut Obce s.r.o. (fiktivní),99906155,Školení účetní – rozpočtová skladba

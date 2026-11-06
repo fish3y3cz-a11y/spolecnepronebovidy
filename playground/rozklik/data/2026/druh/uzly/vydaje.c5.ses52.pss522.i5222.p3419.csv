@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses52/pss522/i5222/p3419,3419,Podpora spolků,650000.00,650000.00,500000.00,500000.00,,,,
+faktura,f402,,VPS-2026-01,,,280000.00,280000.00,2026-03-05,"TJ Sokol Idealnov, z. s. (fiktivní)",99906317,Dotace na činnost dle veřejnoprávní smlouvy
+faktura,f403,,VPS-2026-02,,,160000.00,160000.00,2026-03-05,"SDH Idealnov, z. s. (fiktivní)",99906325,Dotace na činnost mládeže dle veřejnoprávní smlouvy
+faktura,f404,,VPS-2026-03,,,60000.00,60000.00,2026-03-05,"Myslivecký spolek Idealnov, z. s. (fiktivní)",99906333,Dotace na činnost dle veřejnoprávní smlouvy

@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c6/ses61/pss612/i6121/p2212/z3/sm3,,Smlouva SoD 2025/006,0.00,0.00,6146800.00,5080000.00,,,,
+faktura,f4,,SD-25-0630,,,2662000.00,2200000.00,2025-06-30,Silnice Idealnov s.r.o. (fiktivní),99906210,MK Na Výsluní – 1. etapa
+faktura,f5,,SD-25-0831,,,2299000.00,1900000.00,2025-08-31,Silnice Idealnov s.r.o. (fiktivní),99906210,MK Na Výsluní – 2. etapa
+faktura,f6,,SD-25-0926,,,1185800.00,980000.00,2025-09-26,Silnice Idealnov s.r.o. (fiktivní),99906210,MK Na Výsluní – dokončení a vodorovné značení

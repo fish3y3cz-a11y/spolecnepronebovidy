@@ -1,0 +1,443 @@
+﻿typ,id,cislo,datum,uhrazeno,protistrana,ico,popis,paragraf,polozka,cast_zaklad_kc,cast_dph_kc,cast_celkem_kc,doklad_celkem_kc,zakazka,smlouva,registr_smluv,priloha,neverejne
+faktura,f1,TV-25-0731,2025-07-31,2025-07-31,Topení a voda Novák s.r.o. (fiktivní),99906228,Rekonstrukce WC – 1. část,3613,6121,400000.00,84000.00,484000.00,484000.00,Rekonstrukce sociálního zařízení v kulturním domě,SoD 2025/011,,,ne
+faktura,f2,TV-25-0829,2025-08-29,2025-08-29,Topení a voda Novák s.r.o. (fiktivní),99906228,Rekonstrukce WC – dokončení vč. oprav obkladů,3613,6121,300000.00,63000.00,363000.00,405350.00,Rekonstrukce sociálního zařízení v kulturním domě,SoD 2025/011,,,ne
+faktura,f2,TV-25-0829,2025-08-29,2025-08-29,Topení a voda Novák s.r.o. (fiktivní),99906228,Rekonstrukce WC – dokončení vč. oprav obkladů,3613,5171,35000.00,7350.00,42350.00,405350.00,Rekonstrukce sociálního zařízení v kulturním domě,SoD 2025/011,,,ne
+faktura,f3,EL-25-VO1,2025-10-31,2025-10-31,Jiří Proud – elektroinstalace,99906368,Dodávka a montáž LED svítidel,3631,6121,630000.00,0.00,630000.00,630000.00,Modernizace veřejného osvětlení – LED,SoD 2025/019,,,ne
+faktura,f4,SD-25-0630,2025-06-30,2025-06-30,Silnice Idealnov s.r.o. (fiktivní),99906210,MK Na Výsluní – 1. etapa,2212,6121,2200000.00,462000.00,2662000.00,2662000.00,Rekonstrukce místní komunikace Na Výsluní,SoD 2025/006,,,ne
+faktura,f5,SD-25-0831,2025-08-31,2025-08-31,Silnice Idealnov s.r.o. (fiktivní),99906210,MK Na Výsluní – 2. etapa,2212,6121,1900000.00,399000.00,2299000.00,2299000.00,Rekonstrukce místní komunikace Na Výsluní,SoD 2025/006,,,ne
+faktura,f6,SD-25-0926,2025-09-26,2025-09-26,Silnice Idealnov s.r.o. (fiktivní),99906210,MK Na Výsluní – dokončení a vodorovné značení,2212,6121,980000.00,205800.00,1185800.00,1185800.00,Rekonstrukce místní komunikace Na Výsluní,SoD 2025/006,,,ne
+faktura,f7,SV-25-0531,2025-05-31,2025-05-31,Stavby Vysočina s.r.o. (fiktivní),99906163,Zbrojnice – hrubá stavba,5512,6121,1600000.00,336000.00,1936000.00,1936000.00,Stavební úpravy hasičské zbrojnice,SoD 2025/003,,,ne
+faktura,f8,SV-25-0930,2025-09-30,2025-09-30,Stavby Vysočina s.r.o. (fiktivní),99906163,Zbrojnice – střecha a zateplení,5512,6121,1450000.00,304500.00,1754500.00,1754500.00,Stavební úpravy hasičské zbrojnice,SoD 2025/003,,,ne
+faktura,f9,SV-25-1128,2025-11-28,2025-11-28,Stavby Vysočina s.r.o. (fiktivní),99906163,Zbrojnice – dokončení vč. opravy příjezdu,5512,6121,820000.00,172200.00,992200.00,1089000.00,Stavební úpravy hasičské zbrojnice,SoD 2025/003,,,ne
+faktura,f9,SV-25-1128,2025-11-28,2025-11-28,Stavby Vysočina s.r.o. (fiktivní),99906163,Zbrojnice – dokončení vč. opravy příjezdu,2212,5171,80000.00,16800.00,96800.00,1089000.00,Stavební úpravy hasičské zbrojnice,SoD 2025/003,,,ne
+faktura,f10,ZD-25-0430,2025-04-30,2025-04-30,Zemědělské družstvo Idealnov (fiktivní),99906139,Dodávka traktoru a adaptérů,3745,6123,1950000.00,409500.00,2359500.00,2359500.00,Nákup komunálního traktoru s příslušenstvím,KS 2025/002,,,ne
+faktura,f11,UAP-25-06,2025-06-15,2025-06-15,Urbanistický ateliér Plán s.r.o. (fiktivní),99906201,PD – dokumentace pro povolení stavby,3113,6119,260000.00,54600.00,314600.00,314600.00,Projektová dokumentace – výměna oken a zateplení ZŠ,SoD 2025/004,,,ne
+faktura,f12,UAP-25-10,2025-10-15,2025-10-15,Urbanistický ateliér Plán s.r.o. (fiktivní),99906201,PD – dokumentace pro provedení stavby a posudek,3113,6119,260000.00,54600.00,314600.00,314600.00,Projektová dokumentace – výměna oken a zateplení ZŠ,SoD 2025/004,,,ne
+faktura,f13,EV-2025-0101,2025-01-24,2025-02-05,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – leden",6171,5154,10965.00,2302.65,13267.65,34019.15,,,,,ne
+faktura,f13,EV-2025-0101,2025-01-24,2025-02-05,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – leden",3412,5154,10965.00,2302.65,13267.65,34019.15,,,,,ne
+faktura,f13,EV-2025-0101,2025-01-24,2025-02-05,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – leden",3612,5154,6185.00,1298.85,7483.85,34019.15,,,,,ne
+faktura,f14,EV-2025-0202,2025-02-15,2025-02-27,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – únor",6171,5154,10379.00,2179.59,12558.59,32201.73,,,,,ne
+faktura,f14,EV-2025-0202,2025-02-15,2025-02-27,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – únor",3412,5154,10379.00,2179.59,12558.59,32201.73,,,,,ne
+faktura,f14,EV-2025-0202,2025-02-15,2025-02-27,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – únor",3612,5154,5855.00,1229.55,7084.55,32201.73,,,,,ne
+faktura,f15,EV-2025-0303,2025-03-15,2025-03-27,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – březen",6171,5154,11536.00,2422.56,13958.56,35790.59,,,,,ne
+faktura,f15,EV-2025-0303,2025-03-15,2025-03-27,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – březen",3412,5154,11536.00,2422.56,13958.56,35790.59,,,,,ne
+faktura,f15,EV-2025-0303,2025-03-15,2025-03-27,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – březen",3612,5154,6507.00,1366.47,7873.47,35790.59,,,,,ne
+faktura,f16,EV-2025-0404,2025-04-23,2025-05-05,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – duben",6171,5154,9439.00,1982.19,11421.19,29284.42,,,,,ne
+faktura,f16,EV-2025-0404,2025-04-23,2025-05-05,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – duben",3412,5154,9439.00,1982.19,11421.19,29284.42,,,,,ne
+faktura,f16,EV-2025-0404,2025-04-23,2025-05-05,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – duben",3612,5154,5324.00,1118.04,6442.04,29284.42,,,,,ne
+faktura,f17,EV-2025-0505,2025-05-23,2025-06-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – květen",6171,5154,9371.00,1967.91,11338.91,29072.67,,,,,ne
+faktura,f17,EV-2025-0505,2025-05-23,2025-06-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – květen",3412,5154,9371.00,1967.91,11338.91,29072.67,,,,,ne
+faktura,f17,EV-2025-0505,2025-05-23,2025-06-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – květen",3612,5154,5285.00,1109.85,6394.85,29072.67,,,,,ne
+faktura,f18,EV-2025-0606,2025-06-22,2025-07-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červen",6171,5154,8916.00,1872.36,10788.36,27663.02,,,,,ne
+faktura,f18,EV-2025-0606,2025-06-22,2025-07-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červen",3412,5154,8916.00,1872.36,10788.36,27663.02,,,,,ne
+faktura,f18,EV-2025-0606,2025-06-22,2025-07-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červen",3612,5154,5030.00,1056.30,6086.30,27663.02,,,,,ne
+faktura,f19,EV-2025-0707,2025-07-17,2025-07-29,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červenec",6171,5154,9652.00,2026.92,11678.92,29945.08,,,,,ne
+faktura,f19,EV-2025-0707,2025-07-17,2025-07-29,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červenec",3412,5154,9652.00,2026.92,11678.92,29945.08,,,,,ne
+faktura,f19,EV-2025-0707,2025-07-17,2025-07-29,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – červenec",3612,5154,5444.00,1143.24,6587.24,29945.08,,,,,ne
+faktura,f20,EV-2025-0808,2025-08-11,2025-08-23,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – srpen",6171,5154,9680.00,2032.80,11712.80,30032.20,,,,,ne
+faktura,f20,EV-2025-0808,2025-08-11,2025-08-23,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – srpen",3412,5154,9680.00,2032.80,11712.80,30032.20,,,,,ne
+faktura,f20,EV-2025-0808,2025-08-11,2025-08-23,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – srpen",3612,5154,5460.00,1146.60,6606.60,30032.20,,,,,ne
+faktura,f21,EV-2025-0909,2025-09-19,2025-10-01,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – září",6171,5154,10889.00,2286.69,13175.69,33784.41,,,,,ne
+faktura,f21,EV-2025-0909,2025-09-19,2025-10-01,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – září",3412,5154,10889.00,2286.69,13175.69,33784.41,,,,,ne
+faktura,f21,EV-2025-0909,2025-09-19,2025-10-01,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – září",3612,5154,6143.00,1290.03,7433.03,33784.41,,,,,ne
+faktura,f22,EV-2025-1010,2025-10-08,2025-10-20,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – říjen",6171,5154,9209.00,1933.89,11142.89,28570.52,,,,,ne
+faktura,f22,EV-2025-1010,2025-10-08,2025-10-20,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – říjen",3412,5154,9209.00,1933.89,11142.89,28570.52,,,,,ne
+faktura,f22,EV-2025-1010,2025-10-08,2025-10-20,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – říjen",3612,5154,5194.00,1090.74,6284.74,28570.52,,,,,ne
+faktura,f23,EV-2025-1111,2025-11-22,2025-12-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – listopad",6171,5154,10681.00,2243.01,12924.01,33138.27,,,,,ne
+faktura,f23,EV-2025-1111,2025-11-22,2025-12-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – listopad",3412,5154,10681.00,2243.01,12924.01,33138.27,,,,,ne
+faktura,f23,EV-2025-1111,2025-11-22,2025-12-04,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – listopad",3612,5154,6025.00,1265.25,7290.25,33138.27,,,,,ne
+faktura,f24,EV-2025-1212,2025-12-03,2025-12-15,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – prosinec",6171,5154,10671.00,2240.91,12911.91,33109.23,,,,,ne
+faktura,f24,EV-2025-1212,2025-12-03,2025-12-15,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – prosinec",3412,5154,10671.00,2240.91,12911.91,33109.23,,,,,ne
+faktura,f24,EV-2025-1212,2025-12-03,2025-12-15,Energie Vysočina a.s. (fiktivní),99906007,"Elektřina – odběrná místa OÚ, sportoviště, byty – prosinec",3612,5154,6021.00,1264.41,7285.41,33109.23,,,,,ne
+faktura,f25,EVO-2025-1301,2025-01-05,2025-01-17,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – leden,3631,5154,22750.00,4777.50,27527.50,27527.50,,,,,ne
+faktura,f26,EVO-2025-1402,2025-02-05,2025-02-17,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – únor,3631,5154,25530.00,5361.30,30891.30,30891.30,,,,,ne
+faktura,f27,EVO-2025-1503,2025-03-21,2025-04-02,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – březen,3631,5154,26637.00,5593.77,32230.77,32230.77,,,,,ne
+faktura,f28,EVO-2025-1604,2025-04-14,2025-04-26,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – duben,3631,5154,26842.00,5636.82,32478.82,32478.82,,,,,ne
+faktura,f29,EVO-2025-1705,2025-05-20,2025-06-01,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – květen,3631,5154,29232.00,6138.72,35370.72,35370.72,,,,,ne
+faktura,f30,EVO-2025-1806,2025-06-15,2025-06-27,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – červen,3631,5154,24740.00,5195.40,29935.40,29935.40,,,,,ne
+faktura,f31,EVO-2025-1907,2025-07-24,2025-08-05,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – červenec,3631,5154,24263.00,5095.23,29358.23,29358.23,,,,,ne
+faktura,f32,EVO-2025-2008,2025-08-12,2025-08-24,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – srpen,3631,5154,26247.00,5511.87,31758.87,31758.87,,,,,ne
+faktura,f33,EVO-2025-2109,2025-09-15,2025-09-27,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – září,3631,5154,27769.00,5831.49,33600.49,33600.49,,,,,ne
+faktura,f34,EVO-2025-2210,2025-10-12,2025-10-24,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – říjen,3631,5154,25224.00,5297.04,30521.04,30521.04,,,,,ne
+faktura,f35,EVO-2025-2311,2025-11-06,2025-11-18,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – listopad,3631,5154,27993.00,5878.53,33871.53,33871.53,,,,,ne
+faktura,f36,EVO-2025-2412,2025-12-04,2025-12-16,Energie Vysočina a.s. (fiktivní),99906007,Elektřina – veřejné osvětlení – prosinec,3631,5154,29387.00,6171.27,35558.27,35558.27,,,,,ne
+faktura,f37,PC-2025-2501,2025-01-23,2025-02-04,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – leden,6171,5153,9396.00,1973.16,11369.16,25839.55,,,,,ne
+faktura,f37,PC-2025-2501,2025-01-23,2025-02-04,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – leden,3613,5153,11959.00,2511.39,14470.39,25839.55,,,,,ne
+faktura,f38,PC-2025-2602,2025-02-17,2025-03-01,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – únor,6171,5153,8406.00,1765.26,10171.26,23117.05,,,,,ne
+faktura,f38,PC-2025-2602,2025-02-17,2025-03-01,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – únor,3613,5153,10699.00,2246.79,12945.79,23117.05,,,,,ne
+faktura,f39,PC-2025-2703,2025-03-04,2025-03-16,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – březen,6171,5153,10303.00,2163.63,12466.63,28332.15,,,,,ne
+faktura,f39,PC-2025-2703,2025-03-04,2025-03-16,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – březen,3613,5153,13112.00,2753.52,15865.52,28332.15,,,,,ne
+faktura,f40,PC-2025-2804,2025-04-06,2025-04-18,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – duben,6171,5153,10552.00,2215.92,12767.92,29019.43,,,,,ne
+faktura,f40,PC-2025-2804,2025-04-06,2025-04-18,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – duben,3613,5153,13431.00,2820.51,16251.51,29019.43,,,,,ne
+faktura,f41,PC-2025-2905,2025-05-04,2025-05-16,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – květen,6171,5153,8945.00,1878.45,10823.45,24600.51,,,,,ne
+faktura,f41,PC-2025-2905,2025-05-04,2025-05-16,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – květen,3613,5153,11386.00,2391.06,13777.06,24600.51,,,,,ne
+faktura,f42,PC-2025-3006,2025-06-22,2025-07-04,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – červen,6171,5153,8648.00,1816.08,10464.08,23781.34,,,,,ne
+faktura,f42,PC-2025-3006,2025-06-22,2025-07-04,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – červen,3613,5153,11006.00,2311.26,13317.26,23781.34,,,,,ne
+faktura,f43,PC-2025-3107,2025-07-06,2025-07-18,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – červenec,6171,5153,10495.00,2203.95,12698.95,28862.13,,,,,ne
+faktura,f43,PC-2025-3107,2025-07-06,2025-07-18,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – červenec,3613,5153,13358.00,2805.18,16163.18,28862.13,,,,,ne
+faktura,f44,PC-2025-3208,2025-08-22,2025-09-03,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – srpen,6171,5153,10402.00,2184.42,12586.42,28605.61,,,,,ne
+faktura,f44,PC-2025-3208,2025-08-22,2025-09-03,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – srpen,3613,5153,13239.00,2780.19,16019.19,28605.61,,,,,ne
+faktura,f45,PC-2025-3309,2025-09-21,2025-10-03,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – září,6171,5153,9404.00,1974.84,11378.84,25862.54,,,,,ne
+faktura,f45,PC-2025-3309,2025-09-21,2025-10-03,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – září,3613,5153,11970.00,2513.70,14483.70,25862.54,,,,,ne
+faktura,f46,PC-2025-3410,2025-10-21,2025-11-02,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – říjen,6171,5153,8878.00,1864.38,10742.38,24414.17,,,,,ne
+faktura,f46,PC-2025-3410,2025-10-21,2025-11-02,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – říjen,3613,5153,11299.00,2372.79,13671.79,24414.17,,,,,ne
+faktura,f47,PC-2025-3511,2025-11-24,2025-12-06,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – listopad,6171,5153,10630.00,2232.30,12862.30,29232.39,,,,,ne
+faktura,f47,PC-2025-3511,2025-11-24,2025-12-06,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – listopad,3613,5153,13529.00,2841.09,16370.09,29232.39,,,,,ne
+faktura,f48,PC-2025-3612,2025-12-05,2025-12-17,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – prosinec,6171,5153,10221.00,2146.41,12367.41,28108.30,,,,,ne
+faktura,f48,PC-2025-3612,2025-12-05,2025-12-17,PlynCentrum s.r.o. (fiktivní),99906015,Zemní plyn – OÚ a kulturní dům – prosinec,3613,5153,13009.00,2731.89,15740.89,28108.30,,,,,ne
+faktura,f49,VK-2025-3703,2025-03-08,2025-03-20,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Vodné a stočné – obecní úřad – 1. čtvrtletí,6171,5151,6315.00,757.80,7072.80,7072.80,,,,,ne
+faktura,f50,VK-2025-3806,2025-06-04,2025-06-16,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Vodné a stočné – obecní úřad – 2. čtvrtletí,6171,5151,6475.00,777.00,7252.00,7252.00,,,,,ne
+faktura,f51,VK-2025-3909,2025-09-04,2025-09-16,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Vodné a stočné – obecní úřad – 3. čtvrtletí,6171,5151,5421.00,650.52,6071.52,6071.52,,,,,ne
+faktura,f52,VK-2025-4012,2025-12-19,2025-12-31,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Vodné a stočné – obecní úřad – 4. čtvrtletí,6171,5151,5503.00,660.36,6163.36,6163.36,,,,,ne
+faktura,f53,VKP-2025-4103,2025-03-09,2025-03-21,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 1. čtvrtletí,2310,5169,86058.00,18072.18,104130.18,104130.18,,,,,ne
+faktura,f54,VKP-2025-4206,2025-06-14,2025-06-26,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 2. čtvrtletí,2310,5169,94931.00,19935.51,114866.51,114866.51,,,,,ne
+faktura,f55,VKP-2025-4309,2025-09-21,2025-10-03,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 3. čtvrtletí,2310,5169,106127.00,22286.67,128413.67,128413.67,,,,,ne
+faktura,f56,VKP-2025-4412,2025-12-18,2025-12-30,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 4. čtvrtletí,2310,5169,92694.00,19465.74,112159.74,112159.74,,,,,ne
+faktura,f57,VKK-2025-4503,2025-03-11,2025-03-23,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování kanalizace a ČOV – 1. čtvrtletí,2321,5169,170992.00,35908.32,206900.32,206900.32,,,,,ne
+faktura,f58,VKK-2025-4606,2025-06-04,2025-06-16,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování kanalizace a ČOV – 2. čtvrtletí,2321,5169,150888.00,31686.48,182574.48,182574.48,,,,,ne
+faktura,f59,VKK-2025-4709,2025-09-09,2025-09-21,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování kanalizace a ČOV – 3. čtvrtletí,2321,5169,174280.00,36598.80,210878.80,210878.80,,,,,ne
+faktura,f60,VKK-2025-4812,2025-12-19,2025-12-31,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování kanalizace a ČOV – 4. čtvrtletí,2321,5169,166321.00,34927.41,201248.41,201248.41,,,,,ne
+faktura,f61,OM-2025-4901,2025-01-03,2025-01-15,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – leden,3722,5169,169186.00,20302.32,189488.32,189488.32,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f62,OM-2025-5002,2025-02-11,2025-02-23,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – únor,3722,5169,136974.00,16436.88,153410.88,153410.88,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f63,OM-2025-5103,2025-03-17,2025-03-29,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – březen,3722,5169,169196.00,20303.52,189499.52,189499.52,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f64,OM-2025-5204,2025-04-24,2025-05-06,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – duben,3722,5169,160406.00,19248.72,179654.72,179654.72,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f65,OM-2025-5305,2025-05-11,2025-05-23,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – květen,3722,5169,143811.00,17257.32,161068.32,161068.32,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f66,OM-2025-5406,2025-06-15,2025-06-27,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – červen,3722,5169,135902.00,16308.24,152210.24,152210.24,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f67,OM-2025-5507,2025-07-16,2025-07-28,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – červenec,3722,5169,176525.00,21183.00,197708.00,197708.00,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f68,OM-2025-5608,2025-08-12,2025-08-24,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – srpen,3722,5169,141928.00,17031.36,158959.36,158959.36,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f69,OM-2025-5709,2025-09-17,2025-09-29,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – září,3722,5169,165940.00,19912.80,185852.80,185852.80,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f70,OM-2025-5810,2025-10-20,2025-11-01,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – říjen,3722,5169,170445.00,20453.40,190898.40,190898.40,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f71,OM-2025-5911,2025-11-23,2025-12-05,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – listopad,3722,5169,172853.00,20742.36,193595.36,193595.36,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f72,OM-2025-6012,2025-12-10,2025-12-22,Odpady Morava s.r.o. (fiktivní),99906031,Svoz a odstranění směsného komunálního odpadu – prosinec,3722,5169,159784.00,19174.08,178958.08,178958.08,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f73,OMT-2025-6103,2025-03-09,2025-03-21,Odpady Morava s.r.o. (fiktivní),99906031,Svoz tříděného a objemného odpadu – 1. čtvrtletí,3723,5169,76290.00,9154.80,85444.80,85444.80,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f74,OMT-2025-6206,2025-06-12,2025-06-24,Odpady Morava s.r.o. (fiktivní),99906031,Svoz tříděného a objemného odpadu – 2. čtvrtletí,3723,5169,80254.00,9630.48,89884.48,89884.48,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f75,OMT-2025-6309,2025-09-13,2025-09-25,Odpady Morava s.r.o. (fiktivní),99906031,Svoz tříděného a objemného odpadu – 3. čtvrtletí,3723,5169,86643.00,10397.16,97040.16,97040.16,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f76,OMT-2025-6412,2025-12-24,2026-01-05,Odpady Morava s.r.o. (fiktivní),99906031,Svoz tříděného a objemného odpadu – 4. čtvrtletí,3723,5169,77925.00,9351.00,87276.00,87276.00,Svoz a odstranění komunálního odpadu 2025–2028,SML 2024/112,,,ne
+faktura,f77,TN-2025-6501,2025-01-03,2025-01-15,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – leden,6171,5162,10034.00,2107.14,12141.14,12141.14,,,,,ne
+faktura,f78,TN-2025-6602,2025-02-08,2025-02-20,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – únor,6171,5162,9973.00,2094.33,12067.33,12067.33,,,,,ne
+faktura,f79,TN-2025-6703,2025-03-13,2025-03-25,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – březen,6171,5162,9751.00,2047.71,11798.71,11798.71,,,,,ne
+faktura,f80,TN-2025-6804,2025-04-11,2025-04-23,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – duben,6171,5162,7507.00,1576.47,9083.47,9083.47,,,,,ne
+faktura,f81,TN-2025-6905,2025-05-21,2025-06-02,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – květen,6171,5162,8675.00,1821.75,10496.75,10496.75,,,,,ne
+faktura,f82,TN-2025-7006,2025-06-22,2025-07-04,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – červen,6171,5162,9626.00,2021.46,11647.46,11647.46,,,,,ne
+faktura,f83,TN-2025-7107,2025-07-20,2025-08-01,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – červenec,6171,5162,9499.00,1994.79,11493.79,11493.79,,,,,ne
+faktura,f84,TN-2025-7208,2025-08-10,2025-08-22,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – srpen,6171,5162,10087.00,2118.27,12205.27,12205.27,,,,,ne
+faktura,f85,TN-2025-7309,2025-09-17,2025-09-29,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – září,6171,5162,9295.00,1951.95,11246.95,11246.95,,,,,ne
+faktura,f86,TN-2025-7410,2025-10-20,2025-11-01,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – říjen,6171,5162,8227.00,1727.67,9954.67,9954.67,,,,,ne
+faktura,f87,TN-2025-7511,2025-11-13,2025-11-25,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – listopad,6171,5162,9153.00,1922.13,11075.13,11075.13,,,,,ne
+faktura,f88,TN-2025-7612,2025-12-13,2025-12-25,TeleNet CZ s.r.o. (fiktivní),99906040,Telefony a internet obecního úřadu – prosinec,6171,5162,7579.00,1591.59,9170.59,9170.59,,,,,ne
+faktura,f89,PS-2025-7701,2025-01-23,2025-02-04,Poštovní služby a.s. (fiktivní),99906058,Poštovné – leden,6171,5161,3384.00,0.00,3384.00,3384.00,,,,,ne
+faktura,f90,PS-2025-7802,2025-02-24,2025-03-08,Poštovní služby a.s. (fiktivní),99906058,Poštovné – únor,6171,5161,3284.00,0.00,3284.00,3284.00,,,,,ne
+faktura,f91,PS-2025-7903,2025-03-13,2025-03-25,Poštovní služby a.s. (fiktivní),99906058,Poštovné – březen,6171,5161,3266.00,0.00,3266.00,3266.00,,,,,ne
+faktura,f92,PS-2025-8004,2025-04-23,2025-05-05,Poštovní služby a.s. (fiktivní),99906058,Poštovné – duben,6171,5161,3572.00,0.00,3572.00,3572.00,,,,,ne
+faktura,f93,PS-2025-8105,2025-05-13,2025-05-25,Poštovní služby a.s. (fiktivní),99906058,Poštovné – květen,6171,5161,3396.00,0.00,3396.00,3396.00,,,,,ne
+faktura,f94,PS-2025-8206,2025-06-08,2025-06-20,Poštovní služby a.s. (fiktivní),99906058,Poštovné – červen,6171,5161,3206.00,0.00,3206.00,3206.00,,,,,ne
+faktura,f95,PS-2025-8307,2025-07-24,2025-08-05,Poštovní služby a.s. (fiktivní),99906058,Poštovné – červenec,6171,5161,3625.00,0.00,3625.00,3625.00,,,,,ne
+faktura,f96,PS-2025-8408,2025-08-09,2025-08-21,Poštovní služby a.s. (fiktivní),99906058,Poštovné – srpen,6171,5161,3752.00,0.00,3752.00,3752.00,,,,,ne
+faktura,f97,PS-2025-8509,2025-09-23,2025-10-05,Poštovní služby a.s. (fiktivní),99906058,Poštovné – září,6171,5161,3566.00,0.00,3566.00,3566.00,,,,,ne
+faktura,f98,PS-2025-8610,2025-10-06,2025-10-18,Poštovní služby a.s. (fiktivní),99906058,Poštovné – říjen,6171,5161,3197.00,0.00,3197.00,3197.00,,,,,ne
+faktura,f99,PS-2025-8711,2025-11-18,2025-11-30,Poštovní služby a.s. (fiktivní),99906058,Poštovné – listopad,6171,5161,3121.00,0.00,3121.00,3121.00,,,,,ne
+faktura,f100,PS-2025-8812,2025-12-12,2025-12-24,Poštovní služby a.s. (fiktivní),99906058,Poštovné – prosinec,6171,5161,3359.00,0.00,3359.00,3359.00,,,,,ne
+faktura,f101,OIT-2025-8903,2025-03-10,2025-03-22,ObecIT s.r.o. (fiktivní),99906066,"Správa IT, licence a zálohování – 1. čtvrtletí",6171,5168,58069.00,12194.49,70263.49,70263.49,Správa IT obecního úřadu,SML 2024/120,,,ne
+faktura,f102,OIT-2025-9006,2025-06-22,2025-07-04,ObecIT s.r.o. (fiktivní),99906066,"Správa IT, licence a zálohování – 2. čtvrtletí",6171,5168,58925.00,12374.25,71299.25,71299.25,Správa IT obecního úřadu,SML 2024/120,,,ne
+faktura,f103,OIT-2025-9109,2025-09-14,2025-09-26,ObecIT s.r.o. (fiktivní),99906066,"Správa IT, licence a zálohování – 3. čtvrtletí",6171,5168,58303.00,12243.63,70546.63,70546.63,Správa IT obecního úřadu,SML 2024/120,,,ne
+faktura,f104,OIT-2025-9212,2025-12-14,2025-12-26,ObecIT s.r.o. (fiktivní),99906066,"Správa IT, licence a zálohování – 4. čtvrtletí",6171,5168,75026.00,15755.46,90781.46,90781.46,Správa IT obecního úřadu,SML 2024/120,,,ne
+faktura,f105,AK-2025-9303,2025-03-17,2025-03-29,Advokátní kancelář Paragraf s.r.o. (fiktivní),99906074,Právní služby – paušál 1. čtvrtletí,6171,5166,38088.00,7998.48,46086.48,46086.48,,,,,ne
+faktura,f106,AK-2025-9406,2025-06-10,2025-06-22,Advokátní kancelář Paragraf s.r.o. (fiktivní),99906074,Právní služby – paušál 2. čtvrtletí,6171,5166,36589.00,7683.69,44272.69,44272.69,,,,,ne
+faktura,f107,AK-2025-9509,2025-09-18,2025-09-30,Advokátní kancelář Paragraf s.r.o. (fiktivní),99906074,Právní služby – paušál 3. čtvrtletí,6171,5166,36183.00,7598.43,43781.43,43781.43,,,,,ne
+faktura,f108,AK-2025-9612,2025-12-22,2026-01-03,Advokátní kancelář Paragraf s.r.o. (fiktivní),99906074,Právní služby – paušál 4. čtvrtletí,6171,5166,44154.00,9272.34,53426.34,53426.34,,,,,ne
+faktura,f109,UC-2025-9701,2025-01-14,2025-01-26,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – leden,3639,5169,38689.00,8124.69,46813.69,46813.69,,,,,ne
+faktura,f110,UC-2025-9802,2025-02-17,2025-03-01,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – únor,3639,5169,45169.00,9485.49,54654.49,54654.49,,,,,ne
+faktura,f111,UC-2025-9903,2025-03-07,2025-03-19,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – březen,3639,5169,45721.00,9601.41,55322.41,55322.41,,,,,ne
+faktura,f112,UC-2025-10004,2025-04-04,2025-04-16,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – duben,3639,5169,38519.00,8088.99,46607.99,46607.99,,,,,ne
+faktura,f113,UC-2025-10105,2025-05-07,2025-05-19,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – květen,3639,5169,36083.00,7577.43,43660.43,43660.43,,,,,ne
+faktura,f114,UC-2025-10206,2025-06-08,2025-06-20,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – červen,3639,5169,35215.00,7395.15,42610.15,42610.15,,,,,ne
+faktura,f115,UC-2025-10307,2025-07-06,2025-07-18,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – červenec,3639,5169,35167.00,7385.07,42552.07,42552.07,,,,,ne
+faktura,f116,UC-2025-10408,2025-08-05,2025-08-17,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – srpen,3639,5169,42040.00,8828.40,50868.40,50868.40,,,,,ne
+faktura,f117,UC-2025-10509,2025-09-04,2025-09-16,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – září,3639,5169,46549.00,9775.29,56324.29,56324.29,,,,,ne
+faktura,f118,UC-2025-10610,2025-10-14,2025-10-26,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – říjen,3639,5169,44741.00,9395.61,54136.61,54136.61,,,,,ne
+faktura,f119,UC-2025-10711,2025-11-04,2025-11-16,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – listopad,3639,5169,38218.00,8025.78,46243.78,46243.78,,,,,ne
+faktura,f120,UC-2025-10812,2025-12-08,2025-12-20,Úklid Čistota s.r.o. (fiktivní),99906121,Úklid veřejných prostranství a budov – prosinec,3639,5169,34848.00,7318.08,42166.08,42166.08,,,,,ne
+faktura,f121,ZEL-2025-10904,2025-04-07,2025-04-19,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – duben,3745,5169,149773.00,0.00,149773.00,149773.00,,,,,ne
+faktura,f122,ZEL-2025-11005,2025-05-09,2025-05-21,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – květen,3745,5169,133204.00,0.00,133204.00,133204.00,,,,,ne
+faktura,f123,ZEL-2025-11106,2025-06-13,2025-06-25,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – červen,3745,5169,154870.00,0.00,154870.00,154870.00,,,,,ne
+faktura,f124,ZEL-2025-11207,2025-07-20,2025-08-01,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – červenec,3745,5169,133260.00,0.00,133260.00,133260.00,,,,,ne
+faktura,f125,ZEL-2025-11308,2025-08-17,2025-08-29,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – srpen,3745,5169,142956.00,0.00,142956.00,142956.00,,,,,ne
+faktura,f126,ZEL-2025-11409,2025-09-07,2025-09-19,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – září,3745,5169,116521.00,0.00,116521.00,116521.00,,,,,ne
+faktura,f127,ZEL-2025-11510,2025-10-12,2025-10-24,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – říjen,3745,5169,117283.00,0.00,117283.00,117283.00,,,,,ne
+faktura,f128,EL-2025-11603,2025-03-03,2025-03-15,Jiří Proud – elektroinstalace,99906368,Opravy a údržba veřejného osvětlení – 1. čtvrtletí,3631,5171,66450.00,0.00,66450.00,66450.00,,,,,ne
+faktura,f129,EL-2025-11706,2025-06-14,2025-06-26,Jiří Proud – elektroinstalace,99906368,Opravy a údržba veřejného osvětlení – 2. čtvrtletí,3631,5171,59398.00,0.00,59398.00,59398.00,,,,,ne
+faktura,f130,EL-2025-11809,2025-09-08,2025-09-20,Jiří Proud – elektroinstalace,99906368,Opravy a údržba veřejného osvětlení – 3. čtvrtletí,3631,5171,60809.00,0.00,60809.00,60809.00,,,,,ne
+faktura,f131,EL-2025-11912,2025-12-06,2025-12-18,Jiří Proud – elektroinstalace,99906368,Opravy a údržba veřejného osvětlení – 4. čtvrtletí,3631,5171,53450.00,0.00,53450.00,53450.00,,,,,ne
+faktura,f132,PMS-2025-12001,2025-01-05,2025-01-17,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – leden,3111,5331,138261.00,0.00,138261.00,138261.00,,,,,ne
+faktura,f133,PMS-2025-12102,2025-02-22,2025-03-06,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – únor,3111,5331,152895.00,0.00,152895.00,152895.00,,,,,ne
+faktura,f134,PMS-2025-12203,2025-03-16,2025-03-28,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – březen,3111,5331,146208.00,0.00,146208.00,146208.00,,,,,ne
+faktura,f135,PMS-2025-12304,2025-04-10,2025-04-22,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – duben,3111,5331,137273.00,0.00,137273.00,137273.00,,,,,ne
+faktura,f136,PMS-2025-12405,2025-05-16,2025-05-28,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – květen,3111,5331,139718.00,0.00,139718.00,139718.00,,,,,ne
+faktura,f137,PMS-2025-12506,2025-06-13,2025-06-25,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – červen,3111,5331,139847.00,0.00,139847.00,139847.00,,,,,ne
+faktura,f138,PMS-2025-12607,2025-07-06,2025-07-18,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – červenec,3111,5331,154754.00,0.00,154754.00,154754.00,,,,,ne
+faktura,f139,PMS-2025-12708,2025-08-20,2025-09-01,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – srpen,3111,5331,124276.00,0.00,124276.00,124276.00,,,,,ne
+faktura,f140,PMS-2025-12809,2025-09-22,2025-10-04,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – září,3111,5331,148293.00,0.00,148293.00,148293.00,,,,,ne
+faktura,f141,PMS-2025-12910,2025-10-12,2025-10-24,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – říjen,3111,5331,129753.00,0.00,129753.00,129753.00,,,,,ne
+faktura,f142,PMS-2025-13011,2025-11-09,2025-11-21,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – listopad,3111,5331,149402.00,0.00,149402.00,149402.00,,,,,ne
+faktura,f143,PMS-2025-13112,2025-12-10,2025-12-22,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – prosinec,3111,5331,149756.00,0.00,149756.00,149756.00,,,,,ne
+faktura,f144,PZS-2025-13201,2025-01-18,2025-01-30,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – leden,3113,5331,207306.00,0.00,207306.00,207306.00,,,,,ne
+faktura,f145,PZS-2025-13302,2025-02-08,2025-02-20,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – únor,3113,5331,205595.00,0.00,205595.00,205595.00,,,,,ne
+faktura,f146,PZS-2025-13403,2025-03-09,2025-03-21,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – březen,3113,5331,187117.00,0.00,187117.00,187117.00,,,,,ne
+faktura,f147,PZS-2025-13504,2025-04-22,2025-05-04,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – duben,3113,5331,178818.00,0.00,178818.00,178818.00,,,,,ne
+faktura,f148,PZS-2025-13605,2025-05-09,2025-05-21,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – květen,3113,5331,179531.00,0.00,179531.00,179531.00,,,,,ne
+faktura,f149,PZS-2025-13706,2025-06-15,2025-06-27,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – červen,3113,5331,164953.00,0.00,164953.00,164953.00,,,,,ne
+faktura,f150,PZS-2025-13807,2025-07-11,2025-07-23,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – červenec,3113,5331,167091.00,0.00,167091.00,167091.00,,,,,ne
+faktura,f151,PZS-2025-13908,2025-08-23,2025-09-04,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – srpen,3113,5331,189107.00,0.00,189107.00,189107.00,,,,,ne
+faktura,f152,PZS-2025-14009,2025-09-22,2025-10-04,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – září,3113,5331,178868.00,0.00,178868.00,178868.00,,,,,ne
+faktura,f153,PZS-2025-14110,2025-10-07,2025-10-19,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – říjen,3113,5331,168924.00,0.00,168924.00,168924.00,,,,,ne
+faktura,f154,PZS-2025-14211,2025-11-14,2025-11-26,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – listopad,3113,5331,173429.00,0.00,173429.00,173429.00,,,,,ne
+faktura,f155,PZS-2025-14312,2025-12-18,2025-12-30,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – prosinec,3113,5331,187125.00,0.00,187125.00,187125.00,,,,,ne
+faktura,f156,KP-2025-14401,2025-01-15,2025-01-27,Kancelářské potřeby Papír s.r.o. (fiktivní),99906091,Kancelářské potřeby a tonery,6171,5139,24296.00,5102.16,29398.16,29398.16,,,,,ne
+faktura,f157,KP-2025-14503,2025-03-12,2025-03-24,Kancelářské potřeby Papír s.r.o. (fiktivní),99906091,Kancelářské potřeby a tonery,6171,5139,31616.00,6639.36,38255.36,38255.36,,,,,ne
+faktura,f158,KP-2025-14605,2025-05-06,2025-05-18,Kancelářské potřeby Papír s.r.o. (fiktivní),99906091,Kancelářské potřeby a tonery,6171,5139,24072.00,5055.12,29127.12,29127.12,,,,,ne
+faktura,f159,KP-2025-14707,2025-07-10,2025-07-22,Kancelářské potřeby Papír s.r.o. (fiktivní),99906091,Kancelářské potřeby a tonery,6171,5139,30592.00,6424.32,37016.32,37016.32,,,,,ne
+faktura,f160,KP-2025-14809,2025-09-13,2025-09-25,Kancelářské potřeby Papír s.r.o. (fiktivní),99906091,Kancelářské potřeby a tonery,6171,5139,30346.00,6372.66,36718.66,36718.66,,,,,ne
+faktura,f161,KP-2025-14911,2025-11-06,2025-11-18,Kancelářské potřeby Papír s.r.o. (fiktivní),99906091,Kancelářské potřeby a tonery,6171,5139,31673.00,6651.33,38324.33,38324.33,,,,,ne
+faktura,f162,SI-2025-15002,2025-02-20,2025-03-04,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3639,5139,20045.00,4209.45,24254.45,40423.68,,,,,ne
+faktura,f162,SI-2025-15002,2025-02-20,2025-03-04,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3745,5139,13363.00,2806.23,16169.23,40423.68,,,,,ne
+faktura,f163,SI-2025-15104,2025-04-12,2025-04-24,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3639,5139,25358.00,5325.18,30683.18,51138.23,,,,,ne
+faktura,f163,SI-2025-15104,2025-04-12,2025-04-24,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3745,5139,16905.00,3550.05,20455.05,51138.23,,,,,ne
+faktura,f164,SI-2025-15206,2025-06-17,2025-06-29,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3639,5139,20612.00,4328.52,24940.52,41567.13,,,,,ne
+faktura,f164,SI-2025-15206,2025-06-17,2025-06-29,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3745,5139,13741.00,2885.61,16626.61,41567.13,,,,,ne
+faktura,f165,SI-2025-15308,2025-08-04,2025-08-16,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3639,5139,20336.00,4270.56,24606.56,41010.53,,,,,ne
+faktura,f165,SI-2025-15308,2025-08-04,2025-08-16,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3745,5139,13557.00,2846.97,16403.97,41010.53,,,,,ne
+faktura,f166,SI-2025-15410,2025-10-04,2025-10-16,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3639,5139,23931.00,5025.51,28956.51,48260.85,,,,,ne
+faktura,f166,SI-2025-15410,2025-10-04,2025-10-16,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3745,5139,15954.00,3350.34,19304.34,48260.85,,,,,ne
+faktura,f167,SI-2025-15512,2025-12-23,2026-01-04,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3639,5139,25606.00,5377.26,30983.26,51637.96,,,,,ne
+faktura,f167,SI-2025-15512,2025-12-23,2026-01-04,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)",3745,5139,17070.00,3584.70,20654.70,51637.96,,,,,ne
+faktura,f168,ZD-2025-15601,2025-01-19,2025-01-31,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – leden,2212,5169,73193.00,15370.53,88563.53,88563.53,,,,,ne
+faktura,f169,ZD-2025-15702,2025-02-09,2025-02-21,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – únor,2212,5169,77295.00,16231.95,93526.95,93526.95,,,,,ne
+faktura,f170,ZD-2025-15803,2025-03-03,2025-03-15,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – březen,2212,5169,91371.00,19187.91,110558.91,110558.91,,,,,ne
+faktura,f171,ZD-2025-15911,2025-11-21,2025-12-03,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – listopad,2212,5169,80868.00,16982.28,97850.28,97850.28,,,,,ne
+faktura,f172,ZD-2025-16012,2025-12-08,2025-12-20,Zemědělské družstvo Idealnov (fiktivní),99906139,Zimní údržba místních komunikací – prosinec,2212,5169,74967.00,15743.07,90710.07,90710.07,,,,,ne
+faktura,f173,SL-2025-16101,2025-01-06,2025-01-18,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – leden",6171,5169,22624.00,4751.04,27375.04,27375.04,,,,,ne
+faktura,f174,SL-2025-16202,2025-02-04,2025-02-16,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – únor",6171,5169,29796.00,6257.16,36053.16,36053.16,,,,,ne
+faktura,f175,SL-2025-16303,2025-03-17,2025-03-29,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – březen",6171,5169,23064.00,4843.44,27907.44,27907.44,,,,,ne
+faktura,f176,SL-2025-16404,2025-04-04,2025-04-16,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – duben",6171,5169,24917.00,5232.57,30149.57,30149.57,,,,,ne
+faktura,f177,SL-2025-16505,2025-05-04,2025-05-16,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – květen",6171,5169,23124.00,4856.04,27980.04,27980.04,,,,,ne
+faktura,f178,SL-2025-16606,2025-06-15,2025-06-27,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – červen",6171,5169,27608.00,5797.68,33405.68,33405.68,,,,,ne
+faktura,f179,SL-2025-16707,2025-07-19,2025-07-31,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – červenec",6171,5169,25963.00,5452.23,31415.23,31415.23,,,,,ne
+faktura,f180,SL-2025-16808,2025-08-22,2025-09-03,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – srpen",6171,5169,28375.00,5958.75,34333.75,34333.75,,,,,ne
+faktura,f181,SL-2025-16909,2025-09-13,2025-09-25,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – září",6171,5169,27305.00,5734.05,33039.05,33039.05,,,,,ne
+faktura,f182,SL-2025-17010,2025-10-23,2025-11-04,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – říjen",6171,5169,27979.00,5875.59,33854.59,33854.59,,,,,ne
+faktura,f183,SL-2025-17111,2025-11-24,2025-12-06,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – listopad",6171,5169,28327.00,5948.67,34275.67,34275.67,,,,,ne
+faktura,f184,SL-2025-17212,2025-12-10,2025-12-22,ObecIT s.r.o. (fiktivní),99906066,"Služby úřadu – účetní software, BOZP, revize, spisová služba – prosinec",6171,5169,29393.00,6172.53,35565.53,35565.53,,,,,ne
+faktura,f185,OPU-2025-17303,2025-03-18,2025-03-30,Jiří Proud – elektroinstalace,99906368,Opravy a údržba budovy obecního úřadu – 1. čtvrtletí,6171,5171,47459.00,0.00,47459.00,47459.00,,,,,ne
+faktura,f186,OPU-2025-17406,2025-06-22,2025-07-04,Jiří Proud – elektroinstalace,99906368,Opravy a údržba budovy obecního úřadu – 2. čtvrtletí,6171,5171,50764.00,0.00,50764.00,50764.00,,,,,ne
+faktura,f187,OPU-2025-17509,2025-09-17,2025-09-29,Jiří Proud – elektroinstalace,99906368,Opravy a údržba budovy obecního úřadu – 3. čtvrtletí,6171,5171,55502.00,0.00,55502.00,55502.00,,,,,ne
+faktura,f188,OPU-2025-17612,2025-12-18,2025-12-30,Jiří Proud – elektroinstalace,99906368,Opravy a údržba budovy obecního úřadu – 4. čtvrtletí,6171,5171,52267.00,0.00,52267.00,52267.00,,,,,ne
+faktura,f189,TV-2025-17702,2025-02-16,2025-02-28,Topení a voda Novák s.r.o. (fiktivní),99906228,"Opravy v obecních bytech (topení, rozvody vody)",3612,5171,134803.00,16176.36,150979.36,150979.36,,,,,ne
+faktura,f190,TV-2025-17805,2025-05-17,2025-05-29,Topení a voda Novák s.r.o. (fiktivní),99906228,"Opravy v obecních bytech (topení, rozvody vody)",3612,5171,137213.00,16465.56,153678.56,153678.56,,,,,ne
+faktura,f191,TV-2025-17908,2025-08-09,2025-08-21,Topení a voda Novák s.r.o. (fiktivní),99906228,"Opravy v obecních bytech (topení, rozvody vody)",3612,5171,141146.00,16937.52,158083.52,158083.52,,,,,ne
+faktura,f192,TV-2025-18011,2025-11-17,2025-11-29,Topení a voda Novák s.r.o. (fiktivní),99906228,"Opravy v obecních bytech (topení, rozvody vody)",3612,5171,149396.00,17927.52,167323.52,167323.52,,,,,ne
+faktura,f193,2025-0402,2025-04-02,2025-04-16,Lesní služby Brabec s.r.o. (fiktivní),99906112,Těžba dřeva a úklid po kůrovci,1037,5169,196000.00,41160.00,237160.00,237160.00,,,,,ne
+faktura,f194,FK-25-201,2025-03-11,2025-03-25,Knihkupectví U Kocoura – Hana Knížková,99906376,Nákup knih do obecní knihovny,3314,5136,49000.00,5880.00,54880.00,54880.00,,,,,ne
+faktura,f195,AK-2025-052,2025-06-21,2025-07-05,Agentura Koncert s.r.o. (fiktivní),99906147,Hudební program – Idealnovské slavnosti,3319,5169,210000.00,44100.00,254100.00,254100.00,,,,,ne
+faktura,f196,RN-25-022,2025-06-21,2025-07-05,Restaurace Na Návsi – Petr Hostinský,99906384,Občerstvení – Idealnovské slavnosti,3319,5175,74000.00,0.00,74000.00,74000.00,,,,,ne
+faktura,f197,SI-25-DAR,2025-11-28,2025-12-12,Stavebniny Idealnov s.r.o. (fiktivní),99906082,Dárkové balíčky pro jubilanty,3399,5194,82000.00,17220.00,99220.00,99220.00,,,,,ne
+faktura,f198,SD-25-021,2025-06-10,2025-06-24,Silnice Idealnov s.r.o. (fiktivní),99906210,Výsprava výtluků místních komunikací,2212,5171,690000.00,144900.00,834900.00,834900.00,,,,,ne
+faktura,f199,SP-25-01,2025-05-05,2025-05-19,Topení a voda Novák s.r.o. (fiktivní),99906228,Oprava šaten na hřišti,3412,5171,268000.00,56280.00,324280.00,324280.00,,,,,ne
+faktura,f200,HAS-25-01,2025-04-15,2025-04-29,Hasičská technika s.r.o. (fiktivní),99906180,Vybavení JSDH – hadice a čerpadlo,5512,5137,140000.00,29400.00,169400.00,169400.00,,,,,ne
+faktura,f201,PJ-2025-1,2025-01-21,2025-02-04,Pojišťovna Jistota a.s. (fiktivní),99906104,Pojištění majetku a odpovědnosti obce 2025,6320,5163,192400.00,0.00,192400.00,192400.00,,,,,ne
+faktura,f202,VPS-2025-01,2025-03-04,2025-03-18,"TJ Sokol Idealnov, z. s. (fiktivní)",99906317,Dotace na činnost dle veřejnoprávní smlouvy,3419,5222,260000.00,0.00,260000.00,260000.00,,,,,ne
+faktura,f203,VPS-2025-02,2025-03-04,2025-03-18,"SDH Idealnov, z. s. (fiktivní)",99906325,Dotace na činnost mládeže dle veřejnoprávní smlouvy,3419,5222,150000.00,0.00,150000.00,150000.00,,,,,ne
+faktura,f204,VPS-2025-03,2025-03-04,2025-03-18,"Myslivecký spolek Idealnov, z. s. (fiktivní)",99906333,Dotace na činnost dle veřejnoprávní smlouvy,3419,5222,55000.00,0.00,55000.00,55000.00,,,,,ne
+faktura,f205,VPS-2025-04,2025-02-18,2025-03-04,Oblastní charita Fiktivov (fiktivní),99906341,Příspěvek na pečovatelskou službu,4351,5229,110000.00,0.00,110000.00,110000.00,,,,,ne
+faktura,f206,DAR-2025-01,2025-03-08,2025-03-22,Fyzická osoba,,Finanční dar k životnímu jubileu,3399,5492,2000.00,0.00,2000.00,2000.00,,,,,ne
+faktura,f207,DAR-2025-02,2025-11-30,2025-12-14,Fyzická osoba,,Finanční dar k životnímu jubileu,3399,5492,2000.00,0.00,2000.00,2000.00,,,,,ne
+faktura,f208,HR-25-01,2025-05-20,2025-06-03,Pavel Zelený – údržba zeleně,99906350,Údržba hřbitova,3632,5169,98000.00,0.00,98000.00,98000.00,,,,,ne
+faktura,f209,KD-25-01,2025-10-14,2025-10-28,Topení a voda Novák s.r.o. (fiktivní),99906228,Oprava kotle v kulturním domě,3613,5171,196000.00,41160.00,237160.00,237160.00,,,,,ne
+faktura,f210,ROZ-25-01,2025-08-04,2025-08-18,Agentura Koncert s.r.o. (fiktivní),99906147,Oprava obecního rozhlasu,3341,5169,33000.00,6930.00,39930.00,39930.00,,,,,ne
+faktura,f211,VIO-25-08,2025-04-09,2025-04-23,Vzdělávací institut Obce s.r.o. (fiktivní),99906155,Školení zaměstnanců úřadu,6171,5167,52000.00,10920.00,62920.00,62920.00,,,,,ne
+faktura,f212,KP-25-PC,2025-02-12,2025-02-26,Kancelářské potřeby Papír s.r.o. (fiktivní),99906091,Kopírka a vybavení kanceláře,6171,5137,98000.00,20580.00,118580.00,118580.00,,,,,ne
+faktura,f213,SI-25-SEK,2025-04-03,2025-04-17,Stavebniny Idealnov s.r.o. (fiktivní),99906082,Zahradní technika a nářadí,3745,5137,118000.00,24780.00,142780.00,142780.00,,,,,ne
+faktura,f214,ZEL-25-SAZ,2025-10-22,2025-11-05,Pavel Zelený – údržba zeleně,99906350,Výsadba keřů v parku,3745,5139,61000.00,0.00,61000.00,61000.00,,,,,ne
+faktura,f215,HAS-25-02,2025-09-10,2025-09-24,Hasičská technika s.r.o. (fiktivní),99906180,Servis hasičské techniky,5512,5169,92000.00,19320.00,111320.00,111320.00,,,,,ne
+faktura,f216,PHM-25,2025-12-15,2025-12-29,Silnice Idealnov s.r.o. (fiktivní),99906210,Pohonné hmoty – hasiči a technika 2025,5512,5156,70000.00,14700.00,84700.00,84700.00,,,,,ne
+faktura,f217,VK-25-OP,2025-08-19,2025-09-02,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Oprava kanalizace v ulici Polní,2321,5171,255000.00,53550.00,308550.00,308550.00,,,,,ne
+faktura,f218,ZEL-25-HR,2025-06-03,2025-06-17,Pavel Zelený – údržba zeleně,99906350,Údržba dětského hřiště,3421,5169,54000.00,0.00,54000.00,54000.00,,,,,ne
+faktura,f219,UC-25-01,2025-12-10,2025-12-24,Úklid Čistota s.r.o. (fiktivní),99906121,Mimořádný úklid úřadu a kulturního domu,6171,5169,120000.00,25200.00,145200.00,145200.00,,,,,ne
+faktura,f220,OIT-25-WEB,2025-04-10,2025-04-24,ObecIT s.r.o. (fiktivní),99906066,Nový web obce,6171,5169,160000.00,33600.00,193600.00,193600.00,,,,,ne
+faktura,f221,SI-25-K01,2025-09-15,2025-09-29,Stavebniny Idealnov s.r.o. (fiktivní),99906082,Regály a materiál pro knihovnu,3314,5139,21000.00,4410.00,25410.00,25410.00,,,,,ne
+faktura,f222,KP-25-ZAK,2025-01-14,2025-01-28,Kancelářské potřeby Papír s.r.o. (fiktivní),99906091,Odborná literatura a předplatné,6171,5136,22000.00,2640.00,24640.00,24640.00,,,,,ne
+faktura,f223,RN-25-SEN,2025-11-20,2025-12-04,Restaurace Na Návsi – Petr Hostinský,99906384,Pohoštění – setkání seniorů,6171,5175,52000.00,0.00,52000.00,52000.00,,,,,ne
+faktura,f224,HAS-25-03,2025-11-05,2025-11-19,Hasičská technika s.r.o. (fiktivní),99906180,Ochranné pomůcky JSDH,5512,5137,30000.00,6300.00,36300.00,36300.00,,,,,ne
+faktura,f225,VIO-25-ELE,2025-07-01,2025-07-15,Jiří Proud – elektroinstalace,99906368,Revize elektro v obecních budovách,6171,5171,210000.00,0.00,210000.00,210000.00,,,,,ne
+prijem,p1,FU-2025-01,2025-01-15,2025-01-15,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod leden,0000,1111,816053.00,0.00,816053.00,3281817.00,,,,,ne
+prijem,p1,FU-2025-01,2025-01-15,2025-01-15,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod leden,0000,1113,82422.00,0.00,82422.00,3281817.00,,,,,ne
+prijem,p1,FU-2025-01,2025-01-15,2025-01-15,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod leden,0000,1121,849401.00,0.00,849401.00,3281817.00,,,,,ne
+prijem,p1,FU-2025-01,2025-01-15,2025-01-15,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod leden,0000,1211,1520010.00,0.00,1520010.00,3281817.00,,,,,ne
+prijem,p1,FU-2025-01,2025-01-15,2025-01-15,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod leden,0000,1381,13931.00,0.00,13931.00,3281817.00,,,,,ne
+prijem,p2,SDV-2025-02,2025-01-20,2025-01-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – leden,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p3,POP-2025-03,2025-01-28,2025-01-28,,,Místní poplatky – souhrn plateb za leden,0000,1345,392920.00,0.00,392920.00,421316.00,,,,,ne
+prijem,p3,POP-2025-03,2025-01-28,2025-01-28,,,Místní poplatky – souhrn plateb za leden,0000,1341,20900.00,0.00,20900.00,421316.00,,,,,ne
+prijem,p3,POP-2025-03,2025-01-28,2025-01-28,,,Místní poplatky – souhrn plateb za leden,0000,1343,3167.00,0.00,3167.00,421316.00,,,,,ne
+prijem,p3,POP-2025-03,2025-01-28,2025-01-28,,,Místní poplatky – souhrn plateb za leden,0000,1361,4329.00,0.00,4329.00,421316.00,,,,,ne
+prijem,p4,NAJ-2025-04,2025-01-15,2025-01-15,Fyzická osoba,,Nájemné z obecního bytu – leden,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p5,NAJ-2025-05,2025-01-15,2025-01-15,Fyzická osoba,,Nájemné z obecního bytu – leden,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p6,NAJ-2025-06,2025-01-15,2025-01-15,Fyzická osoba,,Nájemné z obecního bytu – leden,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p7,NNP-2025-07,2025-01-15,2025-01-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – leden,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p8,FU-2025-08,2025-02-14,2025-02-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod únor,0000,1111,753454.00,0.00,753454.00,3477967.00,,,,,ne
+prijem,p8,FU-2025-08,2025-02-14,2025-02-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod únor,0000,1113,83033.00,0.00,83033.00,3477967.00,,,,,ne
+prijem,p8,FU-2025-08,2025-02-14,2025-02-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod únor,0000,1121,802304.00,0.00,802304.00,3477967.00,,,,,ne
+prijem,p8,FU-2025-08,2025-02-14,2025-02-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod únor,0000,1211,1825294.00,0.00,1825294.00,3477967.00,,,,,ne
+prijem,p8,FU-2025-08,2025-02-14,2025-02-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod únor,0000,1381,13882.00,0.00,13882.00,3477967.00,,,,,ne
+prijem,p9,SDV-2025-09,2025-02-20,2025-02-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – únor,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p10,POP-2025-10,2025-02-28,2025-02-28,,,Místní poplatky – souhrn plateb za únor,0000,1345,392920.00,0.00,392920.00,420416.00,,,,,ne
+prijem,p10,POP-2025-10,2025-02-28,2025-02-28,,,Místní poplatky – souhrn plateb za únor,0000,1341,20900.00,0.00,20900.00,420416.00,,,,,ne
+prijem,p10,POP-2025-10,2025-02-28,2025-02-28,,,Místní poplatky – souhrn plateb za únor,0000,1343,3167.00,0.00,3167.00,420416.00,,,,,ne
+prijem,p10,POP-2025-10,2025-02-28,2025-02-28,,,Místní poplatky – souhrn plateb za únor,0000,1361,3429.00,0.00,3429.00,420416.00,,,,,ne
+prijem,p11,NAJ-2025-11,2025-02-15,2025-02-15,Fyzická osoba,,Nájemné z obecního bytu – únor,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p12,NAJ-2025-12,2025-02-15,2025-02-15,Fyzická osoba,,Nájemné z obecního bytu – únor,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p13,NAJ-2025-13,2025-02-15,2025-02-15,Fyzická osoba,,Nájemné z obecního bytu – únor,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p14,NNP-2025-14,2025-02-15,2025-02-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – únor,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p15,FU-2025-15,2025-03-14,2025-03-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod březen,0000,1111,817172.00,0.00,817172.00,3561002.00,,,,,ne
+prijem,p15,FU-2025-15,2025-03-14,2025-03-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod březen,0000,1113,74628.00,0.00,74628.00,3561002.00,,,,,ne
+prijem,p15,FU-2025-15,2025-03-14,2025-03-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod březen,0000,1121,838014.00,0.00,838014.00,3561002.00,,,,,ne
+prijem,p15,FU-2025-15,2025-03-14,2025-03-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod březen,0000,1211,1817237.00,0.00,1817237.00,3561002.00,,,,,ne
+prijem,p15,FU-2025-15,2025-03-14,2025-03-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod březen,0000,1381,13951.00,0.00,13951.00,3561002.00,,,,,ne
+prijem,p16,SDV-2025-16,2025-03-20,2025-03-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – březen,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p17,POP-2025-17,2025-03-28,2025-03-28,,,Místní poplatky – souhrn plateb za březen,0000,1345,392920.00,0.00,392920.00,422407.00,,,,,ne
+prijem,p17,POP-2025-17,2025-03-28,2025-03-28,,,Místní poplatky – souhrn plateb za březen,0000,1341,20900.00,0.00,20900.00,422407.00,,,,,ne
+prijem,p17,POP-2025-17,2025-03-28,2025-03-28,,,Místní poplatky – souhrn plateb za březen,0000,1343,3167.00,0.00,3167.00,422407.00,,,,,ne
+prijem,p17,POP-2025-17,2025-03-28,2025-03-28,,,Místní poplatky – souhrn plateb za březen,0000,1361,5420.00,0.00,5420.00,422407.00,,,,,ne
+prijem,p18,NAJ-2025-18,2025-03-15,2025-03-15,Fyzická osoba,,Nájemné z obecního bytu – březen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p19,NAJ-2025-19,2025-03-15,2025-03-15,Fyzická osoba,,Nájemné z obecního bytu – březen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p20,NAJ-2025-20,2025-03-15,2025-03-15,Fyzická osoba,,Nájemné z obecního bytu – březen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p21,NNP-2025-21,2025-03-15,2025-03-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – březen,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p22,FU-2025-22,2025-04-16,2025-04-16,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod duben,0000,1111,753942.00,0.00,753942.00,3191778.00,,,,,ne
+prijem,p22,FU-2025-22,2025-04-16,2025-04-16,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod duben,0000,1113,80710.00,0.00,80710.00,3191778.00,,,,,ne
+prijem,p22,FU-2025-22,2025-04-16,2025-04-16,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod duben,0000,1121,825953.00,0.00,825953.00,3191778.00,,,,,ne
+prijem,p22,FU-2025-22,2025-04-16,2025-04-16,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod duben,0000,1211,1517138.00,0.00,1517138.00,3191778.00,,,,,ne
+prijem,p22,FU-2025-22,2025-04-16,2025-04-16,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod duben,0000,1381,14035.00,0.00,14035.00,3191778.00,,,,,ne
+prijem,p23,SDV-2025-23,2025-04-20,2025-04-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – duben,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p24,POP-2025-24,2025-04-28,2025-04-28,,,Místní poplatky – souhrn plateb za duben,0000,1345,89300.00,0.00,89300.00,97808.00,,,,,ne
+prijem,p24,POP-2025-24,2025-04-28,2025-04-28,,,Místní poplatky – souhrn plateb za duben,0000,1343,3167.00,0.00,3167.00,97808.00,,,,,ne
+prijem,p24,POP-2025-24,2025-04-28,2025-04-28,,,Místní poplatky – souhrn plateb za duben,0000,1361,5341.00,0.00,5341.00,97808.00,,,,,ne
+prijem,p25,NAJ-2025-25,2025-04-15,2025-04-15,Fyzická osoba,,Nájemné z obecního bytu – duben,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p26,NAJ-2025-26,2025-04-15,2025-04-15,Fyzická osoba,,Nájemné z obecního bytu – duben,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p27,NAJ-2025-27,2025-04-15,2025-04-15,Fyzická osoba,,Nájemné z obecního bytu – duben,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p28,NNP-2025-28,2025-04-15,2025-04-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – duben,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p29,FU-2025-29,2025-05-14,2025-05-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod květen,0000,1111,788550.00,0.00,788550.00,3600278.00,,,,,ne
+prijem,p29,FU-2025-29,2025-05-14,2025-05-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod květen,0000,1113,79687.00,0.00,79687.00,3600278.00,,,,,ne
+prijem,p29,FU-2025-29,2025-05-14,2025-05-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod květen,0000,1121,937145.00,0.00,937145.00,3600278.00,,,,,ne
+prijem,p29,FU-2025-29,2025-05-14,2025-05-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod květen,0000,1211,1780988.00,0.00,1780988.00,3600278.00,,,,,ne
+prijem,p29,FU-2025-29,2025-05-14,2025-05-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod květen,0000,1381,13908.00,0.00,13908.00,3600278.00,,,,,ne
+prijem,p30,SDV-2025-30,2025-05-20,2025-05-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – květen,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p31,POP-2025-31,2025-05-28,2025-05-28,,,Místní poplatky – souhrn plateb za květen,0000,1345,89300.00,0.00,89300.00,96378.00,,,,,ne
+prijem,p31,POP-2025-31,2025-05-28,2025-05-28,,,Místní poplatky – souhrn plateb za květen,0000,1343,3167.00,0.00,3167.00,96378.00,,,,,ne
+prijem,p31,POP-2025-31,2025-05-28,2025-05-28,,,Místní poplatky – souhrn plateb za květen,0000,1361,3911.00,0.00,3911.00,96378.00,,,,,ne
+prijem,p32,NAJ-2025-32,2025-05-15,2025-05-15,Fyzická osoba,,Nájemné z obecního bytu – květen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p33,NAJ-2025-33,2025-05-15,2025-05-15,Fyzická osoba,,Nájemné z obecního bytu – květen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p34,NAJ-2025-34,2025-05-15,2025-05-15,Fyzická osoba,,Nájemné z obecního bytu – květen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p35,NNP-2025-35,2025-05-15,2025-05-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – květen,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p36,FU-2025-36,2025-06-10,2025-06-10,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červen,0000,1111,743198.00,0.00,743198.00,3389609.00,,,,,ne
+prijem,p36,FU-2025-36,2025-06-10,2025-06-10,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červen,0000,1113,82094.00,0.00,82094.00,3389609.00,,,,,ne
+prijem,p36,FU-2025-36,2025-06-10,2025-06-10,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červen,0000,1121,888348.00,0.00,888348.00,3389609.00,,,,,ne
+prijem,p36,FU-2025-36,2025-06-10,2025-06-10,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červen,0000,1211,1661657.00,0.00,1661657.00,3389609.00,,,,,ne
+prijem,p36,FU-2025-36,2025-06-10,2025-06-10,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červen,0000,1381,14312.00,0.00,14312.00,3389609.00,,,,,ne
+prijem,p37,SDV-2025-37,2025-06-20,2025-06-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – červen,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p38,POP-2025-38,2025-06-28,2025-06-28,,,Místní poplatky – souhrn plateb za červen,0000,1345,89300.00,0.00,89300.00,96220.00,,,,,ne
+prijem,p38,POP-2025-38,2025-06-28,2025-06-28,,,Místní poplatky – souhrn plateb za červen,0000,1343,3167.00,0.00,3167.00,96220.00,,,,,ne
+prijem,p38,POP-2025-38,2025-06-28,2025-06-28,,,Místní poplatky – souhrn plateb za červen,0000,1361,3753.00,0.00,3753.00,96220.00,,,,,ne
+prijem,p39,NAJ-2025-39,2025-06-15,2025-06-15,Fyzická osoba,,Nájemné z obecního bytu – červen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p40,NAJ-2025-40,2025-06-15,2025-06-15,Fyzická osoba,,Nájemné z obecního bytu – červen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p41,NAJ-2025-41,2025-06-15,2025-06-15,Fyzická osoba,,Nájemné z obecního bytu – červen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p42,NNP-2025-42,2025-06-15,2025-06-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – červen,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p43,FU-2025-43,2025-07-17,2025-07-17,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červenec,0000,1111,706243.00,0.00,706243.00,3191111.00,,,,,ne
+prijem,p43,FU-2025-43,2025-07-17,2025-07-17,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červenec,0000,1113,81074.00,0.00,81074.00,3191111.00,,,,,ne
+prijem,p43,FU-2025-43,2025-07-17,2025-07-17,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červenec,0000,1121,865925.00,0.00,865925.00,3191111.00,,,,,ne
+prijem,p43,FU-2025-43,2025-07-17,2025-07-17,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červenec,0000,1211,1523710.00,0.00,1523710.00,3191111.00,,,,,ne
+prijem,p43,FU-2025-43,2025-07-17,2025-07-17,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod červenec,0000,1381,14159.00,0.00,14159.00,3191111.00,,,,,ne
+prijem,p44,SDV-2025-44,2025-07-20,2025-07-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – červenec,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p45,POP-2025-45,2025-07-28,2025-07-28,,,Místní poplatky – souhrn plateb za červenec,0000,1345,35720.00,0.00,35720.00,43802.00,,,,,ne
+prijem,p45,POP-2025-45,2025-07-28,2025-07-28,,,Místní poplatky – souhrn plateb za červenec,0000,1343,3167.00,0.00,3167.00,43802.00,,,,,ne
+prijem,p45,POP-2025-45,2025-07-28,2025-07-28,,,Místní poplatky – souhrn plateb za červenec,0000,1361,4915.00,0.00,4915.00,43802.00,,,,,ne
+prijem,p46,NAJ-2025-46,2025-07-15,2025-07-15,Fyzická osoba,,Nájemné z obecního bytu – červenec,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p47,NAJ-2025-47,2025-07-15,2025-07-15,Fyzická osoba,,Nájemné z obecního bytu – červenec,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p48,NAJ-2025-48,2025-07-15,2025-07-15,Fyzická osoba,,Nájemné z obecního bytu – červenec,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p49,NNP-2025-49,2025-07-15,2025-07-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – červenec,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p50,FU-2025-50,2025-08-13,2025-08-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod srpen,0000,1111,696830.00,0.00,696830.00,3299309.00,,,,,ne
+prijem,p50,FU-2025-50,2025-08-13,2025-08-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod srpen,0000,1113,79544.00,0.00,79544.00,3299309.00,,,,,ne
+prijem,p50,FU-2025-50,2025-08-13,2025-08-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod srpen,0000,1121,897429.00,0.00,897429.00,3299309.00,,,,,ne
+prijem,p50,FU-2025-50,2025-08-13,2025-08-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod srpen,0000,1211,1612139.00,0.00,1612139.00,3299309.00,,,,,ne
+prijem,p50,FU-2025-50,2025-08-13,2025-08-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod srpen,0000,1381,13367.00,0.00,13367.00,3299309.00,,,,,ne
+prijem,p51,SDV-2025-51,2025-08-20,2025-08-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – srpen,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p52,POP-2025-52,2025-08-28,2025-08-28,,,Místní poplatky – souhrn plateb za srpen,0000,1345,35720.00,0.00,35720.00,42658.00,,,,,ne
+prijem,p52,POP-2025-52,2025-08-28,2025-08-28,,,Místní poplatky – souhrn plateb za srpen,0000,1343,3167.00,0.00,3167.00,42658.00,,,,,ne
+prijem,p52,POP-2025-52,2025-08-28,2025-08-28,,,Místní poplatky – souhrn plateb za srpen,0000,1361,3771.00,0.00,3771.00,42658.00,,,,,ne
+prijem,p53,NAJ-2025-53,2025-08-15,2025-08-15,Fyzická osoba,,Nájemné z obecního bytu – srpen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p54,NAJ-2025-54,2025-08-15,2025-08-15,Fyzická osoba,,Nájemné z obecního bytu – srpen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p55,NAJ-2025-55,2025-08-15,2025-08-15,Fyzická osoba,,Nájemné z obecního bytu – srpen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p56,NNP-2025-56,2025-08-15,2025-08-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – srpen,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p57,FU-2025-57,2025-09-11,2025-09-11,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod září,0000,1111,831868.00,0.00,831868.00,3347583.00,,,,,ne
+prijem,p57,FU-2025-57,2025-09-11,2025-09-11,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod září,0000,1113,75843.00,0.00,75843.00,3347583.00,,,,,ne
+prijem,p57,FU-2025-57,2025-09-11,2025-09-11,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod září,0000,1121,901643.00,0.00,901643.00,3347583.00,,,,,ne
+prijem,p57,FU-2025-57,2025-09-11,2025-09-11,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod září,0000,1211,1523042.00,0.00,1523042.00,3347583.00,,,,,ne
+prijem,p57,FU-2025-57,2025-09-11,2025-09-11,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod září,0000,1381,15187.00,0.00,15187.00,3347583.00,,,,,ne
+prijem,p58,SDV-2025-58,2025-09-20,2025-09-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – září,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p59,POP-2025-59,2025-09-28,2025-09-28,,,Místní poplatky – souhrn plateb za září,0000,1345,35720.00,0.00,35720.00,44916.00,,,,,ne
+prijem,p59,POP-2025-59,2025-09-28,2025-09-28,,,Místní poplatky – souhrn plateb za září,0000,1343,3167.00,0.00,3167.00,44916.00,,,,,ne
+prijem,p59,POP-2025-59,2025-09-28,2025-09-28,,,Místní poplatky – souhrn plateb za září,0000,1361,6029.00,0.00,6029.00,44916.00,,,,,ne
+prijem,p60,NAJ-2025-60,2025-09-15,2025-09-15,Fyzická osoba,,Nájemné z obecního bytu – září,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p61,NAJ-2025-61,2025-09-15,2025-09-15,Fyzická osoba,,Nájemné z obecního bytu – září,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p62,NAJ-2025-62,2025-09-15,2025-09-15,Fyzická osoba,,Nájemné z obecního bytu – září,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p63,NNP-2025-63,2025-09-15,2025-09-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – září,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p64,FU-2025-64,2025-10-14,2025-10-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod říjen,0000,1111,736962.00,0.00,736962.00,3222115.00,,,,,ne
+prijem,p64,FU-2025-64,2025-10-14,2025-10-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod říjen,0000,1113,76158.00,0.00,76158.00,3222115.00,,,,,ne
+prijem,p64,FU-2025-64,2025-10-14,2025-10-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod říjen,0000,1121,869392.00,0.00,869392.00,3222115.00,,,,,ne
+prijem,p64,FU-2025-64,2025-10-14,2025-10-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod říjen,0000,1211,1525236.00,0.00,1525236.00,3222115.00,,,,,ne
+prijem,p64,FU-2025-64,2025-10-14,2025-10-14,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod říjen,0000,1381,14367.00,0.00,14367.00,3222115.00,,,,,ne
+prijem,p65,SDV-2025-65,2025-10-20,2025-10-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – říjen,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p66,POP-2025-66,2025-10-28,2025-10-28,,,Místní poplatky – souhrn plateb za říjen,0000,1345,35720.00,0.00,35720.00,44242.00,,,,,ne
+prijem,p66,POP-2025-66,2025-10-28,2025-10-28,,,Místní poplatky – souhrn plateb za říjen,0000,1343,3167.00,0.00,3167.00,44242.00,,,,,ne
+prijem,p66,POP-2025-66,2025-10-28,2025-10-28,,,Místní poplatky – souhrn plateb za říjen,0000,1361,5355.00,0.00,5355.00,44242.00,,,,,ne
+prijem,p67,NAJ-2025-67,2025-10-15,2025-10-15,Fyzická osoba,,Nájemné z obecního bytu – říjen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p68,NAJ-2025-68,2025-10-15,2025-10-15,Fyzická osoba,,Nájemné z obecního bytu – říjen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p69,NAJ-2025-69,2025-10-15,2025-10-15,Fyzická osoba,,Nájemné z obecního bytu – říjen,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p70,NNP-2025-70,2025-10-15,2025-10-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – říjen,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p71,FU-2025-71,2025-11-12,2025-11-12,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod listopad,0000,1111,714849.00,0.00,714849.00,3378401.00,,,,,ne
+prijem,p71,FU-2025-71,2025-11-12,2025-11-12,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod listopad,0000,1113,80053.00,0.00,80053.00,3378401.00,,,,,ne
+prijem,p71,FU-2025-71,2025-11-12,2025-11-12,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod listopad,0000,1121,899990.00,0.00,899990.00,3378401.00,,,,,ne
+prijem,p71,FU-2025-71,2025-11-12,2025-11-12,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod listopad,0000,1211,1670397.00,0.00,1670397.00,3378401.00,,,,,ne
+prijem,p71,FU-2025-71,2025-11-12,2025-11-12,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod listopad,0000,1381,13112.00,0.00,13112.00,3378401.00,,,,,ne
+prijem,p72,SDV-2025-72,2025-11-20,2025-11-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – listopad,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p73,POP-2025-73,2025-11-28,2025-11-28,,,Místní poplatky – souhrn plateb za listopad,0000,1345,35720.00,0.00,35720.00,42496.00,,,,,ne
+prijem,p73,POP-2025-73,2025-11-28,2025-11-28,,,Místní poplatky – souhrn plateb za listopad,0000,1343,3167.00,0.00,3167.00,42496.00,,,,,ne
+prijem,p73,POP-2025-73,2025-11-28,2025-11-28,,,Místní poplatky – souhrn plateb za listopad,0000,1361,3609.00,0.00,3609.00,42496.00,,,,,ne
+prijem,p74,NAJ-2025-74,2025-11-15,2025-11-15,Fyzická osoba,,Nájemné z obecního bytu – listopad,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p75,NAJ-2025-75,2025-11-15,2025-11-15,Fyzická osoba,,Nájemné z obecního bytu – listopad,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p76,NAJ-2025-76,2025-11-15,2025-11-15,Fyzická osoba,,Nájemné z obecního bytu – listopad,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p77,NNP-2025-77,2025-11-15,2025-11-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – listopad,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p78,FU-2025-78,2025-12-13,2025-12-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod prosinec,0000,1111,837715.00,0.00,837715.00,3677951.00,,,,,ne
+prijem,p78,FU-2025-78,2025-12-13,2025-12-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod prosinec,0000,1113,81620.00,0.00,81620.00,3677951.00,,,,,ne
+prijem,p78,FU-2025-78,2025-12-13,2025-12-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod prosinec,0000,1121,936887.00,0.00,936887.00,3677951.00,,,,,ne
+prijem,p78,FU-2025-78,2025-12-13,2025-12-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod prosinec,0000,1211,1808876.00,0.00,1808876.00,3677951.00,,,,,ne
+prijem,p78,FU-2025-78,2025-12-13,2025-12-13,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Sdílené daně – převod prosinec,0000,1381,12853.00,0.00,12853.00,3677951.00,,,,,ne
+prijem,p79,SDV-2025-79,2025-12-20,2025-12-20,Fiktivní kraj (fiktivní),99906244,Příspěvek na výkon státní správy – prosinec,0000,4112,40750.00,0.00,40750.00,40750.00,,,,,ne
+prijem,p80,POP-2025-80,2025-12-28,2025-12-28,,,Místní poplatky – souhrn plateb za prosinec,0000,1345,35720.00,0.00,35720.00,43974.00,,,,,ne
+prijem,p80,POP-2025-80,2025-12-28,2025-12-28,,,Místní poplatky – souhrn plateb za prosinec,0000,1343,3167.00,0.00,3167.00,43974.00,,,,,ne
+prijem,p80,POP-2025-80,2025-12-28,2025-12-28,,,Místní poplatky – souhrn plateb za prosinec,0000,1361,5087.00,0.00,5087.00,43974.00,,,,,ne
+prijem,p81,NAJ-2025-81,2025-12-15,2025-12-15,Fyzická osoba,,Nájemné z obecního bytu – prosinec,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p82,NAJ-2025-82,2025-12-15,2025-12-15,Fyzická osoba,,Nájemné z obecního bytu – prosinec,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p83,NAJ-2025-83,2025-12-15,2025-12-15,Fyzická osoba,,Nájemné z obecního bytu – prosinec,3612,2132,25583.00,0.00,25583.00,25583.00,,,,,ne
+prijem,p84,NNP-2025-84,2025-12-15,2025-12-15,Kadeřnictví Lenka – Lenka Střihová,99906392,Nájemné – nebytový prostor kadeřnictví – prosinec,3613,2132,28167.00,0.00,28167.00,28167.00,,,,,ne
+prijem,p85,DNV-2025-85,2025-05-28,2025-05-28,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Daň z nemovitých věcí – 1. splátka,0000,1511,1515280.00,0.00,1515280.00,1515280.00,,,,,ne
+prijem,p86,DNV-2025-86,2025-11-28,2025-11-28,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Daň z nemovitých věcí – 2. splátka,0000,1511,1369580.00,0.00,1369580.00,1369580.00,,,,,ne
+prijem,p87,FU-2025-87,2025-06-25,2025-06-25,Finanční úřad pro Fiktivní kraj (fiktivní),99906236,Daň z příjmů FO – podíl z daňových přiznání,0000,1112,199750.00,0.00,199750.00,199750.00,,,,,ne
+prijem,p88,PD-2025-88,2025-04-18,2025-04-18,Dřevo Vysočina s.r.o. (fiktivní),99906287,Prodej vytěženého dřeva,1037,2111,384930.00,0.00,384930.00,384930.00,,,,,ne
+prijem,p89,PP-2025-89,2025-01-28,2025-01-28,Zemědělské družstvo Idealnov (fiktivní),99906139,Pronájem obecních pozemků – zemědělské družstvo,3639,2131,202860.00,0.00,202860.00,202860.00,,,,,ne
+prijem,p90,EK-2025-90,2025-03-25,2025-03-25,Autorizovaná obalová společnost a.s. (fiktivní),99906261,Odměna za třídění odpadu – 1. čtvrtletí,3725,2324,41186.00,0.00,41186.00,41186.00,,,,,ne
+prijem,p91,BU-2025-91,2025-03-28,2025-03-28,Banka Fiktiv a.s. (fiktivní),99906279,Úroky z účtů – 1. čtvrtletí,6310,2141,52995.00,0.00,52995.00,52995.00,,,,,ne
+prijem,p92,EK-2025-92,2025-06-25,2025-06-25,Autorizovaná obalová společnost a.s. (fiktivní),99906261,Odměna za třídění odpadu – 2. čtvrtletí,3725,2324,46449.00,0.00,46449.00,46449.00,,,,,ne
+prijem,p93,BU-2025-93,2025-06-28,2025-06-28,Banka Fiktiv a.s. (fiktivní),99906279,Úroky z účtů – 2. čtvrtletí,6310,2141,53183.00,0.00,53183.00,53183.00,,,,,ne
+prijem,p94,EK-2025-94,2025-09-25,2025-09-25,Autorizovaná obalová společnost a.s. (fiktivní),99906261,Odměna za třídění odpadu – 3. čtvrtletí,3725,2324,38268.00,0.00,38268.00,38268.00,,,,,ne
+prijem,p95,BU-2025-95,2025-09-28,2025-09-28,Banka Fiktiv a.s. (fiktivní),99906279,Úroky z účtů – 3. čtvrtletí,6310,2141,60947.00,0.00,60947.00,60947.00,,,,,ne
+prijem,p96,EK-2025-96,2025-12-25,2025-12-25,Autorizovaná obalová společnost a.s. (fiktivní),99906261,Odměna za třídění odpadu – 4. čtvrtletí,3725,2324,38060.00,0.00,38060.00,38060.00,,,,,ne
+prijem,p97,BU-2025-97,2025-12-28,2025-12-28,Banka Fiktiv a.s. (fiktivní),99906279,Úroky z účtů – 4. čtvrtletí,6310,2141,49464.00,0.00,49464.00,49464.00,,,,,ne
+prijem,p98,D-2025-01,2025-11-20,2025-11-20,Národní fond pro obnovu venkova (fiktivní),99906252,Investiční dotace – modernizace veřejného osvětlení,0000,4216,400000.00,0.00,400000.00,400000.00,,,,,ne

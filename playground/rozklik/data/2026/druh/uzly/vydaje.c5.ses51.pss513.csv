@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss513,513,Výdaje na nákup materiálu,1070000.00,1100000.00,778256.56,654886.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss513/i5136,5136,Knihy a obdobné listinné informační prostředky,85000.00,85000.00,55944.00,49950.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss513/i5137,5137,Drobný dlouhodobý hmotný majetek,440000.00,440000.00,275759.00,227900.00,,,,
+podrizeny_uzel,vydaje/c5/ses51/pss513/i5139,5139,Nákup materiálu jinde nezařazený,545000.00,575000.00,446553.56,377036.00,,,,

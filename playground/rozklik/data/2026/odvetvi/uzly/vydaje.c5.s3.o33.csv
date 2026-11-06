@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o33,33,"Kultura, církve a sdělovací prostředky",765000.00,765000.00,416542.70,355220.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o33/pd331,331,Kultura,555000.00,555000.00,330150.70,282520.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o33/pd334,334,Sdělovací prostředky,40000.00,40000.00,28919.00,23900.00,,,,
+podrizeny_uzel,vydaje/c5/s3/o33/pd339,339,"Ostatní činnosti v záležitostech kultury, církví a sdělovacích prostředků",170000.00,170000.00,57473.00,48800.00,,,,

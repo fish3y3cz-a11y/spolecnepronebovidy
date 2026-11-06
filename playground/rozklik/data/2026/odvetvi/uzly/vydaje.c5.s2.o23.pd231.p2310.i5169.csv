@@ -1,0 +1,5 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s2/o23/pd231/p2310/i5169,5169,Nákup ostatních služeb,520000.00,520000.00,408468.17,337577.00,,,,
+faktura,f265,,VKP-2026-3103,,,125118.84,103404.00,2026-03-08,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 1. čtvrtletí
+faktura,f266,,VKP-2026-3206,,,145273.81,120061.00,2026-06-09,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 2. čtvrtletí
+faktura,f267,,VKP-2026-3309,,,138075.52,114112.00,2026-09-19,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 3. čtvrtletí

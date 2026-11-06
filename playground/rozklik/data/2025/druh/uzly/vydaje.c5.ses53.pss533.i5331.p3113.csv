@@ -1,0 +1,14 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses53/pss533/i5331/p3113,3113,Základní škola,2280000.00,2280000.00,2187864.00,2187864.00,,,,
+faktura,f144,,PZS-2025-13201,,,207306.00,207306.00,2025-01-18,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – leden
+faktura,f145,,PZS-2025-13302,,,205595.00,205595.00,2025-02-08,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – únor
+faktura,f146,,PZS-2025-13403,,,187117.00,187117.00,2025-03-09,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – březen
+faktura,f147,,PZS-2025-13504,,,178818.00,178818.00,2025-04-22,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – duben
+faktura,f148,,PZS-2025-13605,,,179531.00,179531.00,2025-05-09,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – květen
+faktura,f149,,PZS-2025-13706,,,164953.00,164953.00,2025-06-15,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – červen
+faktura,f150,,PZS-2025-13807,,,167091.00,167091.00,2025-07-11,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – červenec
+faktura,f151,,PZS-2025-13908,,,189107.00,189107.00,2025-08-23,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – srpen
+faktura,f152,,PZS-2025-14009,,,178868.00,178868.00,2025-09-22,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – září
+faktura,f153,,PZS-2025-14110,,,168924.00,168924.00,2025-10-07,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – říjen
+faktura,f154,,PZS-2025-14211,,,173429.00,173429.00,2025-11-14,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – listopad
+faktura,f155,,PZS-2025-14312,,,187125.00,187125.00,2025-12-18,"Základní škola Idealnov, p. o. (fiktivní)",99906309,Příspěvek na provoz základní školy – prosinec

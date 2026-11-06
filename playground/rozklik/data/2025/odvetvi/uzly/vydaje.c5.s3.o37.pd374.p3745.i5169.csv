@@ -1,0 +1,9 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o37/pd374/p3745/i5169,5169,Nákup ostatních služeb,855000.00,855000.00,947867.00,947867.00,,,,
+faktura,f121,,ZEL-2025-10904,,,149773.00,149773.00,2025-04-07,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – duben
+faktura,f122,,ZEL-2025-11005,,,133204.00,133204.00,2025-05-09,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – květen
+faktura,f123,,ZEL-2025-11106,,,154870.00,154870.00,2025-06-13,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – červen
+faktura,f124,,ZEL-2025-11207,,,133260.00,133260.00,2025-07-20,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – červenec
+faktura,f125,,ZEL-2025-11308,,,142956.00,142956.00,2025-08-17,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – srpen
+faktura,f126,,ZEL-2025-11409,,,116521.00,116521.00,2025-09-07,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – září
+faktura,f127,,ZEL-2025-11510,,,117283.00,117283.00,2025-10-12,Pavel Zelený – údržba zeleně,99906350,Sečení a údržba veřejné zeleně – říjen

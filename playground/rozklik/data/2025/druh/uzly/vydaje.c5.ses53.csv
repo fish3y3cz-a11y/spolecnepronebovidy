@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses53,53,Neinvestiční transfery veřejnoprávním osobám a mezi peněžními fondy téže osoby a platby daní,4608000.00,4608000.00,4423600.00,4423600.00,,,,
+podrizeny_uzel,vydaje/c5/ses53/pss533,533,Neinvestiční transfery příspěvkovým a podobným organizacím,3990000.00,3990000.00,3898300.00,3898300.00,,,,
+podrizeny_uzel,vydaje/c5/ses53/pss536,536,Ostatní neinvestiční transfery jiným rozpočtům a platby daní,618000.00,618000.00,525300.00,525300.00,,,,

@@ -1,0 +1,9 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss513/i5139/p3745,3745,Veřejná zeleň,114000.00,114000.00,170613.90,151590.00,,,,
+faktura,f162,,SI-2025-15002,,,16169.23,13363.00,2025-02-20,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f163,,SI-2025-15104,,,20455.05,16905.00,2025-04-12,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f164,,SI-2025-15206,,,16626.61,13741.00,2025-06-17,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f165,,SI-2025-15308,,,16403.97,13557.00,2025-08-04,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f166,,SI-2025-15410,,,19304.34,15954.00,2025-10-04,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f167,,SI-2025-15512,,,20654.70,17070.00,2025-12-23,Stavebniny Idealnov s.r.o. (fiktivní),99906082,"Materiál pro údržbu obce (barvy, řezivo, substráty, drobný materiál)"
+faktura,f214,,ZEL-25-SAZ,,,61000.00,61000.00,2025-10-22,Pavel Zelený – údržba zeleně,99906350,Výsadba keřů v parku

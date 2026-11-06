@@ -1,0 +1,14 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s3/o31/pd311/p3111/i5331,5331,Neinvestiční příspěvky zřízeným příspěvkovým organizacím,1710000.00,1710000.00,1710436.00,1710436.00,,,,
+faktura,f132,,PMS-2025-12001,,,138261.00,138261.00,2025-01-05,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – leden
+faktura,f133,,PMS-2025-12102,,,152895.00,152895.00,2025-02-22,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – únor
+faktura,f134,,PMS-2025-12203,,,146208.00,146208.00,2025-03-16,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – březen
+faktura,f135,,PMS-2025-12304,,,137273.00,137273.00,2025-04-10,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – duben
+faktura,f136,,PMS-2025-12405,,,139718.00,139718.00,2025-05-16,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – květen
+faktura,f137,,PMS-2025-12506,,,139847.00,139847.00,2025-06-13,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – červen
+faktura,f138,,PMS-2025-12607,,,154754.00,154754.00,2025-07-06,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – červenec
+faktura,f139,,PMS-2025-12708,,,124276.00,124276.00,2025-08-20,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – srpen
+faktura,f140,,PMS-2025-12809,,,148293.00,148293.00,2025-09-22,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – září
+faktura,f141,,PMS-2025-12910,,,129753.00,129753.00,2025-10-12,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – říjen
+faktura,f142,,PMS-2025-13011,,,149402.00,149402.00,2025-11-09,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – listopad
+faktura,f143,,PMS-2025-13112,,,149756.00,149756.00,2025-12-10,"Mateřská škola Idealnov, p. o. (fiktivní)",99906295,Příspěvek na provoz mateřské školy – prosinec

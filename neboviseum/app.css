@@ -1,0 +1,45 @@
+/* NeboviSeum – doplňky ke společnému stylu webu */
+#app { padding: 8px 20px 40px; }
+#app h2 { margin: 32px 0 12px; font-size: 26px; }
+#app h3 { margin: 0 0 6px; font-size: 20px; }
+.nv-bar { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; justify-content: space-between; margin: 8px 0 20px; }
+.nv-bar .who { color: var(--muted); font-size: 16px; }
+#app-nav { display: flex; flex-wrap: wrap; gap: 4px 6px; }
+#app-nav a { text-decoration: none; opacity: .85; font-weight: 500; padding: 8px 10px; }
+#app-nav a:hover, #app-nav a[aria-current="page"] { opacity: 1; color: var(--orange-soft); }
+.nv-card { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 20px; margin: 0 0 14px; }
+.nv-card .meta { color: var(--muted); font-size: 15px; }
+.nv-card a.title { text-decoration: none; font-weight: 700; font-size: 20px; }
+.nv-card a.title:hover { color: var(--orange); }
+.nv-body { white-space: pre-wrap; overflow-wrap: anywhere; }
+.nv-form { display: grid; gap: 12px; max-width: 640px; }
+.nv-form label { display: grid; gap: 4px; font-weight: 600; font-size: 16px; }
+.nv-form input[type=text], .nv-form input[type=email], .nv-form input[type=datetime-local], .nv-form textarea, .nv-form select {
+  font: inherit; padding: 10px 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--white); color: var(--text);
+}
+.nv-form textarea { min-height: 140px; resize: vertical; }
+.nv-form .check { display: flex; gap: 10px; align-items: flex-start; font-weight: 400; }
+.nv-msg { padding: 12px 16px; border-radius: 12px; margin: 12px 0; background: #eef3fb; border: 1px solid #cfdbef; }
+.nv-msg.error { background: #fdeceb; border-color: #f3c3bf; }
+.nv-msg.ok { background: #eaf6ec; border-color: #bfe0c4; }
+.nv-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.nv-row .btn, .nv-bar .btn { font-size: 16px; padding: 8px 16px; }
+button.btn { font: inherit; cursor: pointer; border: 0; }
+button.btn.outline { background: transparent; border: 2px solid var(--navy); color: var(--navy); }
+button.btn.danger { background: #b3261e; color: #fff; }
+button.btn:disabled { opacity: .5; cursor: default; }
+.nv-link { background: none; border: 0; padding: 0; font: inherit; color: var(--muted); text-decoration: underline; cursor: pointer; font-size: 15px; }
+.nv-bars { display: grid; gap: 8px; margin-top: 10px; }
+.nv-bar-row { display: grid; gap: 2px; }
+.nv-bar-row .track { height: 12px; border-radius: 6px; background: var(--line); overflow: hidden; }
+.nv-bar-row .fill { height: 100%; background: var(--orange); }
+.nv-opts { display: grid; gap: 8px; margin: 10px 0; }
+.nv-opts label { display: flex; gap: 10px; align-items: center; font-weight: 500; }
+.nv-comment { border-left: 3px solid var(--line); padding: 4px 0 4px 14px; margin: 14px 0; }
+.nv-table { width: 100%; border-collapse: collapse; font-size: 16px; }
+.nv-table th, .nv-table td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.nv-badge { display: inline-block; font-size: 13px; padding: 1px 8px; border-radius: 999px; background: var(--navy); color: #fff; margin-left: 6px; vertical-align: middle; }
+.nv-badge.warn { background: var(--orange); color: var(--navy); }
+.nv-code { font-family: ui-monospace, monospace; word-break: break-all; background: var(--cream); padding: 6px 10px; border-radius: 8px; }
+.nv-report { margin-top: 8px; padding: 12px; border: 1px dashed var(--line); border-radius: 12px; }
+@media (max-width: 720px) { #app-nav a { padding: 6px 8px; font-size: 15px; } }

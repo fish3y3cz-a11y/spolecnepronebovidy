@@ -1,0 +1,7 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/s6/o61/pd617/p6171/i5171,5171,Opravy a udržování,238000.00,238000.00,415992.00,415992.00,,,,
+faktura,f185,,OPU-2025-17303,,,47459.00,47459.00,2025-03-18,Jiří Proud – elektroinstalace,99906368,Opravy a údržba budovy obecního úřadu – 1. čtvrtletí
+faktura,f186,,OPU-2025-17406,,,50764.00,50764.00,2025-06-22,Jiří Proud – elektroinstalace,99906368,Opravy a údržba budovy obecního úřadu – 2. čtvrtletí
+faktura,f187,,OPU-2025-17509,,,55502.00,55502.00,2025-09-17,Jiří Proud – elektroinstalace,99906368,Opravy a údržba budovy obecního úřadu – 3. čtvrtletí
+faktura,f188,,OPU-2025-17612,,,52267.00,52267.00,2025-12-18,Jiří Proud – elektroinstalace,99906368,Opravy a údržba budovy obecního úřadu – 4. čtvrtletí
+faktura,f225,,VIO-25-ELE,,,210000.00,210000.00,2025-07-01,Jiří Proud – elektroinstalace,99906368,Revize elektro v obecních budovách

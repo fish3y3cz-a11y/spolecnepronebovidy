@@ -1,0 +1,6 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5169/p2310,2310,Pitná voda,494000.00,494000.00,459570.10,379810.00,,,,
+faktura,f53,,VKP-2025-4103,,,104130.18,86058.00,2025-03-09,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 1. čtvrtletí
+faktura,f54,,VKP-2025-4206,,,114866.51,94931.00,2025-06-14,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 2. čtvrtletí
+faktura,f55,,VKP-2025-4309,,,128413.67,106127.00,2025-09-21,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 3. čtvrtletí
+faktura,f56,,VKP-2025-4412,,,112159.74,92694.00,2025-12-18,"Vodovody a kanalizace Idealnov, a.s. (fiktivní)",99906023,Provozování vodovodu – 4. čtvrtletí

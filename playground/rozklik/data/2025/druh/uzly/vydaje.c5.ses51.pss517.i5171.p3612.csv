@@ -1,0 +1,6 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss517/i5171/p3612,3612,Obecní byty,665000.00,665000.00,630064.96,562558.00,,,,
+faktura,f189,,TV-2025-17702,,,150979.36,134803.00,2025-02-16,Topení a voda Novák s.r.o. (fiktivní),99906228,"Opravy v obecních bytech (topení, rozvody vody)"
+faktura,f190,,TV-2025-17805,,,153678.56,137213.00,2025-05-17,Topení a voda Novák s.r.o. (fiktivní),99906228,"Opravy v obecních bytech (topení, rozvody vody)"
+faktura,f191,,TV-2025-17908,,,158083.52,141146.00,2025-08-09,Topení a voda Novák s.r.o. (fiktivní),99906228,"Opravy v obecních bytech (topení, rozvody vody)"
+faktura,f192,,TV-2025-18011,,,167323.52,149396.00,2025-11-17,Topení a voda Novák s.r.o. (fiktivní),99906228,"Opravy v obecních bytech (topení, rozvody vody)"

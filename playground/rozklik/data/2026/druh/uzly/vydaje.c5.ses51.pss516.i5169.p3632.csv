@@ -1,0 +1,4 @@
+﻿typ_radku,id,kod,nazev,schvaleny_kc,upraveny_kc,skutecnost_s_dph_kc,skutecnost_bez_dph_kc,datum,protistrana,ico,popis
+uzel,vydaje/c5/ses51/pss516/i5169/p3632,3632,Pohřebnictví,120000.00,120000.00,84500.00,84500.00,,,,
+faktura,f381,,HR-26-04,,,48000.00,48000.00,2026-04-21,Pavel Zelený – údržba zeleně,99906350,Údržba hřbitovní zeleně a odvoz odpadu ze hřbitova
+faktura,f382,,HR-26-09,,,36500.00,36500.00,2026-09-22,Pavel Zelený – údržba zeleně,99906350,Podzimní údržba hřbitova
